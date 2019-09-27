@@ -1,0 +1,21 @@
+############################
+
+PROJECT TABLEAU 
+PAULA GUAL
+DATAPT0519
+
+###########################
+
+For the Tableau project I made a HISTORY AND A DASHBOARD:
+
+LINK TO THE TABLEAU PROJECT DASHBOARD:
+
+It's a dashboard for the general fifa 2019 players.
+
+https://public.tableau.com/profile/paula.gual.de.torrella.ca.ellas#!/vizhome/proyecto-visualization/Dashboard1
+
+LINK TO THE TABLEAU PROJECT STORY:
+
+It's a history similar to the presentation I made, to guess who should be next Barça Player.
+
+https://public.tableau.com/profile/paula.gual.de.torrella.ca.ellas#!/vizhome/proyecto-visualization/Historia1
