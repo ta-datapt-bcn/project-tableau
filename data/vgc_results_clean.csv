@@ -1,0 +1,889 @@
+team,name,move1,move2,move3,move4,nature,held_item,ability
+1.0,Pachirisu,Nuzzle,Follow Me,Super Fang,Protect,Impish,Sitrus Berry,Volt Absorb
+1.0,Gothitelle,Psyshock,Thunder Wave,Tickle,Protect,Calm,Leftovers,Shadow Tag
+1.0,Gardevoir,Dazzling Gleam,Psychic,Moonblast,Swagger,Timid,Choice Scarf,Telepathy
+1.0,Gyarados,Dragon Dance,Waterfall,Earthquake,Protect,Adamant,Gyaradosite,Intimidate
+1.0,Talonflame,Brave Bird,Overheat,Taunt,Quick Guard,Naive,Life Orb,Gale Wings
+1.0,Garchomp,Earthquake,Dragon Claw,Rock Slide,Protect,Jolly,Focus Sash,Rough Skin
+2.0,Tyranitar,Rock Slide,Stone Edge,Crunch,Ice Punch,Jolly,Choice Scarf,Sand Stream
+2.0,Charizard,Protect,Overheat,Heat Wave,Solar Beam,Modest,Charizardite Y,Blaze
+2.0,Salamence,Protect,Draco Meteor,Fire Blast,Rock Tomb,Modest,Haban Berry,Intimidate
+2.0,Garchomp,Protect,Dragon Claw,Rock Slide,Earthquake,Jolly,Life Orb,Rough Skin
+2.0,Lucario,Protect,Close Combat,Bullet Punch,Follow Me,Jolly,Lucarionite,Inner Focus
+2.0,Rotom,Will-o-Wisp,Thunderbolt,Leaf Storm,Protect,Bold,Sitrus Berry,Levitate
+3.0,Zapdos,Thunderbolt,Hidden Power,Thunder Wave,Roost,Calm,Safety Goggles,Pressure
+3.0,Hydreigon,Draco Meteor,Dark Pulse,Fire Blast,Earth Power,Modest,Choice Specs,Levitate
+3.0,Mawile,Play Rough,Iron Head,Sucker Punch,Protect,Adamant,Mawilite,Intimidate
+3.0,Conkeldurr,Drain Punch,Mach Punch,Rock Slide,Payback,Adamant,Assault Vest,Guts
+3.0,Tyranitar,Rock Slide,Dark Pulse,Ice Beam,Fire Blast,Timid,Choice Scarf,Sand Stream
+3.0,Aegislash,Shadow Ball,Sacred Sword,Substitute,King's Shield,Quiet,Weakness Policy,Stance Change
+4.0,Mawile,Iron Head,Play Rough,Sucker Punch,Protect,Adamant,Mawilite,Intimidate
+4.0,Rotom,Overheat,Thunderbolt,Will-o-Wisp,Protect,Modest,Sitrus Berry,Levitate
+4.0,Azumarill,Play Rough,Waterfall,Aqua Jet,Protect,Adamant,Wacan Berry,Huge Power
+4.0,Hydreigon,Draco Meteor,Dark Pulse,Flamethower,Earth Power,Modest,Choice Specs,Levitate
+4.0,Machamp,Close Combat,Ice Punch,Knock Off,Rock Slide,Jolly,Choice Scarf,Guts
+4.0,Venusaur,Sludge Bomb,Giga Drain,Leech Seed,Protect,Calm,Venusaurite,Chlorophyll
+5.0,Tyranitar,Protect,Rock Slide,Ice Beam,Fire Blast,Quiet,Weakness Policy,Sand Stream
+5.0,Mawile,Protect,Iron Head,Play Rough,Sucker Punch,Adamant,Mawilite,Intimidate
+5.0,Hydreigon,Dark Pulse,Draco Meteor,Fire Blast,Earth Power,Modest,Choice Specs,Levitate
+5.0,Gengar,Protect,Shadow Ball,Will-o-Wisp,Trick Room,Sassy,Safety Goggles,Levitate
+5.0,Rotom,Thunderbolt,Thunder Wave,Hydro Pump,Light Screen,Calm,Sitrus Berry,Levitate
+5.0,Garchomp,Protect,Earthquake,Dragon Claw,Substitute,Jolly,Life Orb,Rough Skin
+6.0,Staraptor,Brave Bird,Close Combat,U-Turn,Final Gambit,Jolly,Choice Scarf,Intimidate
+6.0,Aegislash,Flash Cannon,Shadow Ball,Substitute,King's Shield,Quiet,Leftovers,Stance Change
+6.0,Lapras,Hydro Pump,Freeze-Dry,Ice Shard,Protect,Calm,Weakness Policy,Water Absorb
+6.0,Rotom,Thunderbolt,Overheat,Will-o-Wisp,Protect,Calm,Sitrus Berry,Levitate
+6.0,Garchomp,Dragon Claw,Earthquake,Rock Slide,Protect,Jolly,Lum Berry,Rough Skin
+6.0,Kangaskhan,Return,Sucker Punch,Power-Up Punch,Fake Out,Adamant,Kangaskhanite,Scrappy
+7.0,Amoonguss,Spore,Sludge Bomb,Rage Powder,Protect,Sassy,Rocky Helmet,Regenerator
+7.0,Rotom,Overheat,Volt Switch,Will-o-Wisp,Protect,Calm,Sitrus Berry,Levitate
+7.0,Salamence,Draco Meteor,Flamethrower,Swagger,Protect,Modest,Life Orb,Intimidate
+7.0,Blastoise,Water Spout,Ice Beam,Aura Sphere,Protect,Modest,Blastoisinite,Rain Dish
+7.0,Aegislash,Sacred Sword,Shadow Ball,Wide Guard,King's Shield,Sassy,Lum Berry,Stance Change
+7.0,Tyranitar,Rock Slide,Protect,Crunch,Dragon Dance,Adamant,Tyranitarite,Sand Stream
+8.0,Talonflame,Brave Bird,Flare Blitz,Protect,Taunt,Adamant,Life Orb,Gale Wings
+8.0,Politoed,Perish Song,Encore,Protect,Scald,Sassy,Sitrus Berry,Drizzle
+8.0,Gothitelle,Psychic,Charm,Trick Room,Protect,Sassy,Leftovers,Shadow Tag
+8.0,Ludicolo,Fake Out,Hydro Pump,Giga Drain,Ice Beam,Modest,Assault Vest,Swift Swim
+8.0,Lucario,Aura Sphere,Flash Cannon,Protect,Substitute,Timid,Lucarionite,Inner Focus
+8.0,Mawile,Play Rough,Sucker Punch,Protect,Iron Head,Adamant,Mawilite,Intimidate
+9.0,Gardevoir,Moonblast,Shadow Ball,Dazzling Gleam,Psychic,Timid,Choice Scarf,Telepathy
+9.0,Zapdos,Thunderbolt,Protect,Thunder Wave,Roost,Bold,Rocky Helmet,Pressure
+9.0,Hydreigon,Draco Meteor,Flamethrower,Dark Pulse,Earth Power,Modest,Choice Specs,Levitate
+9.0,Garchomp,Protect,Earthquake,Rock Slide,Dragon Claw,Jolly,Lum Berry,Rough Skin
+9.0,Aegislash,Substitute,Shadow Ball,King's Shield,Flash Cannon,Modest,Leftovers,Stance Change
+9.0,Kangaskhan,Fake Out,Sucker Punch,Double-Edge,Hammer Arm,Adamant,Kangaskhanite,Inner Focus
+10.0,Kangaskhan,Fake Out,Double-Edge,Power-Up Punch,Sucker Punch,Jolly,Kangaskhanite,Scrappy
+10.0,Garchomp,Dragon Claw,Rock Slide,Earthquake,Protect,Jolly,Focus Sash,Rough Skin
+10.0,Salamence,Draco Meteor,Fire Blast,Rock Tomb,Protect,Modest,Life Orb,Intimidate
+10.0,Rotom,Thunderbolt,Hydro Pump,Will-o-Wisp,Protect,Modest,Sitrus Berry,Levitate
+10.0,Aegislash,Shadow Ball,Flash Cannon,Substitute,Kings's Shield,Quiet,Leftovers,Stance Change
+10.0,Gardevoir,Moonblast,Dazzling Gleam,Psychic,Shadow Ball,Modest,Choice Specs,Trace
+11.0,Politoed,Scald,Ice Beam,Encore,Protect,Calm,Eject Button,Drizzle
+11.0,Ludicolo,Fake Out,Giga Drain,Hydro Pump,Ice Beam,Modest,Assault Vest,Swift Swim
+11.0,Amoonguss,Giga Drain,Rage Powder,Spore,Protect,Relaxed,Rocky Helmet,Regenerator
+11.0,Tyranitar,Rock Slide,Dragon Dance,Protect,Brick Break,Jolly,Lum Berry,Sand Stream
+11.0,Manectric,Volt Switch,Hidden Power,Overheat,Protect,Timid,Manectite,Lightning Rod
+11.0,Talonflame,Brave Bird,Flare Blitz,U-Turn,Protect,Adamant,Life Orb,Gale Wings
+12.0,Amoonguss,Rage Powder,Spore,Giga Drain,Protect,Relaxed,Mental Herb,Regenerator
+12.0,Salamence,Draco Meteor,Protect,Flamethrower,Hydro Pump,Timid,Life Orb,Intimidate
+12.0,Manectric,Overheat,Eerie Impulse,Volt Switch,Protect,Timid,Manectite,Lightning Rod
+12.0,Rotom,Volt Switch,Light Screen,Protect,Hydro Pump,Modest,Sitrus Berry,Levitate
+12.0,Sableye,Will-o-Wisp,Taunt,Snarl,Protect,Bold,Leftovers,Prankster
+12.0,Meowstic,Psychic,Rain Dance,Sunny Day,Protect,Bold,Luminous Moss,Prankster
+13.0,Kangaskhan,Return,Low Kick,Sucker Punch,Fake Out,Adamant,Kangaskhanite,Scrappy
+13.0,Heatran,Protect,Substitute,Heat Wave,Earth Power,Modest,Shuca Berry,Flash Fire
+13.0,Thundurus,Protect,Thunderbolt,Thunder Wave,Swagger,Timid,Safety Goggles,Prankster
+13.0,Landorus,Rock Slide,Earthquake,Knock Off,Superpower,Jolly,Assault Vest,Intimidate
+13.0,Cresselia,Protect,Psychic,Ice Beam,Trick Room,Quiet,Sitrus Berry,Levitate
+13.0,Amoonguss,Rage Powder,Spore,Energy Ball,Sunny Day,Relaxed,Rocky Helmet,Regenerator
+14.0,Cresselia,Psychic,Hidden Power,Icy Wind,Trick Room,Modest,Sitrus Berry,Levitate
+14.0,Aegislash,Shadow Ball,Shadow Sneak,King's Shield,Flash Cannon,Relaxed,Weakness Policy,Stance Change
+14.0,Volcarona,Flamethrower,Quiver Dance,Protect,Giga Drain,Modest,Rocky Helmet,Flame Body
+14.0,Thundurus,Thunderbolt,Hidden Power,Taunt,Protect,Timid,Life Orb,Prankster
+14.0,Kangaskhan,Return,Protect,Sucker Punch,Power-Up Punch,Adamant,Kangaskhanite,Scrappy
+14.0,Landorus,Earthquake,Rock Slide,Superpower,Protect,Adamant,Focus Sash,Intimidate
+15.0,Thundurus,Thunderbolt,Hidden Power,Thunder Wave,Protect,Bold,Sitrus Berry,Prankster
+15.0,Landorus,Earthquake,Rock Slide,Superpower,Protect,Jolly,Life Orb,Intimidate
+15.0,Kangaskhan,Fake Out,Return,Low Kick,Sucker Punch,Adamant,Kangaskhanite,Inner Focus
+15.0,Sylveon,Hyper Voice,Helping Hand,Quick Attack,Detect,Modest,Pixie Plate,Pixilate
+15.0,Heatran,Heat Wave,Earth Power,Substitute,Protect,Timid,Shuca Berry,Flash Fire
+15.0,Aegislash,Shadow Ball,Substitute,Wide Guard,King's Shield,Modest,Leftovers,Stance Change
+16.0,Kangaskhan,Fake Out,Frustration,Low Kick,Protect,Brave,Kangaskhanite,Scrappy
+16.0,Cresselia,Psychic,Ice Beam,Trick Room,Protect,Quiet,Sitrus Berry,Levitate
+16.0,Entei,Sacred Fire,Stone Edge,Substitute,Protect,Adamant,Leftovers,Pressure
+16.0,Landorus,Rock Slide,Earthquake,Superpower,Protect,Jolly,Yache Berry,Intimidate
+16.0,Aegislash,Shadow Ball,Flash Cannon,Shadow Sneak,King's Shield,Quiet,Life Orb,Stance Change
+16.0,Amoonguss,Spore,Rage Powder,Sludge Bomb,Protect,Relaxed,Rocky Helmet,Regenerator
+17.0,Hydreigon,Draco Meteor,Dark Pulse,Tailwind,Protect,Timid,Life Orb,Levitate
+17.0,Amoonguss,Giga Drain,Spore,Rage Powder,Protect,Sassy,Rocky Helmet,Regenerator
+17.0,Heatran,Heat Wave,Earth Power,Overheat,Protect,Modest,Shuca Berry,Flash Fire
+17.0,Rotom,Toxic,Hydro Pump,Electroweb,Protect,Calm,Sitrus Berry,Levitate
+17.0,Landorus,Rock Slide,Earthquake,U-turn,Superpower,Jolly,Choice Band,Intimidate
+17.0,Gardevoir,Hyper Voice,Psychic,Trick Room,Protect,Modest,Gardevoirite,Trace
+18.0,Gardevoir,Hyper Voice,Psychic,Trick Room,Protect,Modest,Gardevoririte,Trace
+18.0,Landorus,Earthquake,Rock Slide,Knock Off,Rock Tomb,Adamant,Assault Vest,Intimidate
+18.0,Heatran,Heat Wave,Earth Power,Hidden Power,Protect,Modest,Shuca Berry,Flash Fire
+18.0,Thundurus,Thunderbolt,Thunder Wave,Swagger,Protect,Modest,Sitrus Berry,Prankster
+18.0,Tyranitar,Rock Slide,Crunch,Low Kick,Protect,Adamant,Life Orb,Sand Stream
+18.0,Amoonguss,Giga Drain,Spore,Rage Powder,Protect,Bold,Rocky Helmet,Regenerator
+19.0,Cresselia,Psychic,Ice Beam,Hidden Power,Moonblast,Modest,Sitrus Berry,Levitate
+19.0,Kangaskhan,Return,Power-Up Punch,Sucker Punch,Fake Out,Adamant,Kangaskhanite,Scrappy
+19.0,Tyranitar,Rock Slide,Crunch,Ice Punch,Superpower,Jolly,Choice Scarf,Sand Stream
+19.0,Landorus,Earthquake,Rock Slide,Superpower,Knock Off,Jolly,Assault Vest,Intimidate
+19.0,Heatran,Heat Wave,Earth Power,Substitute,Protect,Timid,Shuca Berry,Flash Fire
+19.0,Amoonguss,Giga Drain,Spore,Rage Powder,Protect,Sassy,Rocky Helmet,Regenerator
+20.0,Kangaskhan,Return,Power-Up Punch,Sucker Punch,Protect,Adamant,Kangaskhanite,Inner Focus
+20.0,Scrafty,Drain Punch,Knock Off,Ice Punch,Fake Out,Brave,Assault Vest,Intimidate
+20.0,Heatran,Heat Wave,Earth Power,Substitute,Protect,Timid,Leftovers,Flash Fire
+20.0,Amoonguss,Spore,Rage Powder,Giga Drain,Protect,Sassy,Rocky Helmet,Regenerator
+20.0,Cresselia,Psychic,Icy Wind,Hidden Power,Trick Room,Modest,Sitrus Berry,Levitate
+20.0,Landorus,Earthquake,Rock Slide,U-turn,Protect,Jolly,Life Orb,Intimidate
+21.0,Cresselia,Toxic,Ice Beam,Skill Swap,Trick Room,Sassy,Mental Herb,Levitate
+21.0,Landorus,Earthquake,U-turn,Rock Slide,Superpower,Adamant,Assault Vest,Intimidate
+21.0,Machamp,Dynamic Punch,Stone Edge,Wide Guard,Knock Off,Adamant,Sitrus Berry,No Guard
+21.0,Charizard,Heat Wave,Solar Beam,Flamethrower,Protect,Modest,Charizardite Y,Blaze
+21.0,Sylveon,Hyper Voice,Shadow Ball,Moonblast,Protect,Quiet,Pixie Plate,Pixilate
+21.0,Heatran,Heat Wave,Overheat,Earth Power,Protect,Modest,Shuca Berry,Flash Fire
+22.0,Aegislash,Shadow Ball,Flash Cannon,Wide Guard,King's Shield,Modest,Safety Goggles,Stance Change
+22.0,Zapdos,Thunderbolt,Hidden Power,Roost,Tailwind,Modest,Sitrus Berry,Pressure
+22.0,Kangaskhan,Fake Out,Double Edge,Low Kick,Protect,Jolly,Kangaskhanite,Scrappy
+22.0,Heatran,Heat Wave,Flamethrower,Earth Power,Protect,Timid,Life Orb,Flash Fire
+22.0,Sylveon,Hyper Voice,Shadow Ball,Psyshock,Hidden Power,Modest,Choice Specs,Pixilate
+22.0,Landorus,Earthquake,Rock Slide,Knock Off,Superpower,Adamant,Assault Vest,Intimidate
+23.0,Kangaskhan,Fake Out,Return,Low Kick,Sucker Punch,Adamant,Kangaskhanite,Scrappy
+23.0,Landorus,Rock Slide,Earthquake,U-Turn,Protect,Adamant,Focus Sash,Intimidate
+23.0,Thundurus,Thunderbolt,Thunder Wave,Swagger,Taunt,Calm,Sitrus Berry,Prankster
+23.0,Sylveon,Hyper Voice,Shadow Ball,Moonblast,Hidden Power (Ground),Modest,Choice Specs,Pixilate
+23.0,Milotic,Scald,Ice Beam,Recover,Protect,Bold,Wacan Berry,Competitive
+23.0,Heatran,Heat Wave,Flash Cannon,Earth Power,Protect,Modest,Shuca Berry,Flash Fire
+24.0,Kangaskhan,Power-Up Punch,Return,Protect,Sucker Punch,Jolly,Kangaskhanite,Scrappy
+24.0,Ferrothorn,Thunder Wave,Gyro Ball,Power Whip,Protect,Brave,Rocky Helmet,Iron Barbs
+24.0,Milotic,Icy Wind,Recover,Protect,Scald,Bold,Maranga Berry,Competitive
+24.0,Hydreigon,Draco Meteor,Dark Pulse,Earth Power,Protect,Modest,Life Orb,Levitate
+24.0,Togekiss,Tailwind,Encore,Follow Me,Air Slash,Calm,Sitrus Berry,Serene Grace
+24.0,Arcanine,Flare Blitz,Close Combat,Snarl,Will-O-Wisp,Impish,Leftovers,Intimidate
+25.0,Kangaskhan,Double-Edge,Low Kick,Fake Out,Sucker Punch,Adamant,Kangaskhanite,Scrappy
+25.0,Zapdos,Thunderbolt,Hidden Power (Ice),Heat Wave,Tailwind,Modest,Weakness Policy,Pressure
+25.0,Landorus,Earth Power,Hidden Power (Ice),Superpower,Rock Slide,Naive,Life Orb,Intimidate
+25.0,Breloom,Bullet Seed,Mach Punch,Spore,Protect,Jolly,Focus Sash,Technician
+25.0,Aegislash,Shadow Ball,Flash Cannon,Substitute,King's Shield,Modest,Leftovers,Stance Change
+25.0,Arcanine,Flare Blitz,Close Combat,Wild Charge,Extreme Speed,Adamant,Choice Band,Intimidate
+26.0,Kangaskhan,Fake Out,Low Kick,Sucker Punch,Double-Edge,Adamant,Kangaskhanite,Inner Focus
+26.0,Suicune,Scald,Ice Beam,Mirror Coat,Tailwind,Calm,Sitrus Berry,Pressure
+26.0,Landorus,Earthquake,Rock Slide,Superpower,Knock Off,Adamant,Choice Band,Intimidate
+26.0,Thundurus,Thunderbolt,Hidden Power (Ice),Taunt,Thunder Wave,Timid,Life Orb,Prankster
+26.0,Breloom,Bullet Seed,Mach Punch,Protect,Spore,Jolly,Focus Sash,Technician
+26.0,Heatran,Heat Wave,Flash Cannon,Protect,Will-O-Wisp,Modest,Chople Berry,Flash Fire
+27.0,Gengar,Shadow Ball,Will-O-Wisp,Icy Wind,Protect,Timid,Focus Sash,Levitate
+27.0,Suicune,Scald,Ice Beam,Tailwind,Sunny Day,Bold,Sitrus Berry,Pressure
+27.0,Gardevoir,Hyper Voice,Psychic,Trick Room,Protect,Modest,Gardevoirite,Telepathy
+27.0,Landorus,Superpower,U-turn,Rock Slide,Earthquake,Adamant,Choice Scarf,Intimidate
+27.0,Amoonguss,Sludge Bomb,Spore,Rage Powder,Protect,Relaxed,Rocky Helmet,Regenerator
+27.0,Heatran,Heat Wave,Earth Power,Ancient Power,Protect,Modest,Safety Goggles,Flash Fire
+28.0,Thundurus,Thunder Wave,Thunderbolt,Taunt,Swagger,Bold,Sitrus Berry,Prankster
+28.0,Landorus,Earthquake,Rock Slide,Stone Edge,Superpower,Adamant,Choice Scarf,Intimidate
+28.0,Milotic,Scald,Ice Beam,Recover,Protect,Bold,Maranga Berry,Competitive
+28.0,Volcarona,Flamethrower,Bug Buzz,Quiver Dance,Protect,Modest,Life Orb,Flame Body
+28.0,Aegislash,Shadow Ball,Flash Cannon,Wide Guard,King's Shield,Modest,Weakness Policy,Stance Change
+28.0,Kangaskhan,Double-Edge,Fake Out,Low Kick,Sucker Punch,Jolly,Kangaskhanite,Scrappy
+29.0,Tyranitar,Crunch,Rock Slide,Low Kick,Protect,Adamant,Life Orb,Sand Stream
+29.0,Amoonguss,Spore,Rage Powder,Protect,Energy Ball,Relaxed,Rocky Helmet,Regenerator
+29.0,Thundurus,Thunderbolt,Taunt,Thunder Wave,Swagger,Timid,Sitrus Berry,Prankster
+29.0,Landorus,Rock Slide,Earthquake,U-turn,Superpower,Jolly,Choice Scarf,Intimidate
+29.0,Heatran,Flash Cannon,Earth Power,Flamethrower,Protect,Quiet,Shuca Berry,Flash Fire
+29.0,Gardevoir,Hyper Voice,Trick Room,Protect,Psychic,Modest,Gardevoirite,Trace
+30.0,Charizard,Heat Wave,Overheat,Solar Beam,Protect,Modest,Charizardite Y,Blaze
+30.0,Rotom,Will-O-Wisp,Thunderbolt,Thunder Wave,Hydro Pump,Calm,Sitrus Berry,Levitate
+30.0,Terrakion,Double Kick,Rock Slide,Close Combat,Protect,Jolly,Lum Berry,Justified
+30.0,Cresselia,Psychic,Icy Wind,Calm Mind,Moonlight,Bold,Safety Goggles,Levitate
+30.0,Aegislash,Shadow Ball,King's Shield,Substitute,Wide Guard,Quiet,Leftovers,Stance Change
+30.0,Landorus,Earthquake,Rock Slide,Knock Off,U-turn,Adamant,Assault Vest,Intimidate
+31.0,Aegislash,Shadow Ball,Flash Cannon,King's Shield,Wide Guard,Quiet,Weakness Policy,Stance Change
+31.0,Mawile,Rock Slide,Play Rough,Protect,Sucker Punch,Adamant,Mawilite,Intimidate
+31.0,Cresselia,Icy Wind,Safeguard,Moonlight,Toxic,Bold,Rocky Helmet,Levitate
+31.0,Amoonguss,Protect,Rage Powder,Spore,Giga Drain,Bold,Black Sludge,Regenerator
+31.0,Terrakion,Earthquake,Rock Slide,Protect,Close Combat,Jolly,Focus Sash,Justified
+31.0,Kangaskhan,Fake Out,Crunch,Double-Edge,Low Kick,Jolly,Kangaskhanite,Scrappy
+32.0,Thundurus,Thunderbolt,Swagger,Taunt,Thunder Wave,Timid,Sitrus Berry,Prankster
+32.0,Togekiss,Follow Me,Air Slash,Flamethrower,Magic Coat,Calm,Rocky Helmet,Serene Grace
+32.0,Suicune,Scald,Snarl,Ice Beam,Icy Wind,Modest,Assault Vest,Pressure
+32.0,Landorus,Rock Slide,Earthquake,Knock Off,Superpower,Jolly,Choice Scarf,Intimidate
+32.0,Kangaskhan,Return,Sucker Punch,Power-Up Punch,Protect,Jolly,Kangaskhanite,Scrappy
+32.0,Aegislash,King's Shield,Shadow Ball,Flash Cannon,Wide Guard,Quiet,Safety Goggles,Stance Change
+33.0,Jellicent,Scald,Ice Beam,Will-O-Wisp,Recover,Calm,Safety Goggles,Cursed Body
+33.0,Heatran,Heat Wave,Earth Power,Substitute,Protect,Modest,Leftovers,Flash Fire
+33.0,Thundurus,Thunderbolt,Swagger,Taunt,Thunder Wave,Calm,Sitrus Berry,Prankster
+33.0,Landorus,Earthquake,Rock Slide,U-turn,Superpower,Adamant,Choice Scarf,Intimidate
+33.0,Sylveon,Hyper Voice,Hidden Power,Calm Mind,Protect,Modest,Pixie Plate,Pixilate
+33.0,Kangaskhan,Double-Edge,Low Kick,Sucker Punch,Fake Out,Jolly,Kangaskhanite,Scrappy
+34.0,Milotic,Scald,Icy Wind,Recover,Protect,Modest,Sitrus Berry,Competitive
+34.0,Conkeldurr,Mach Punch,Drain Punch,Ice Punch,Stone Edge,Adamant,Assault Vest,Guts
+34.0,Rotom,Thunderbolt,Overheat,Will-O-Wisp,Protect,Modest,Passho Berry,Levitate
+34.0,Togekiss,Follow Me,Tailwind,Safeguard,Air Slash,Calm,Safety Goggles,Serene Grace
+34.0,Hydreigon,Draco Meteor,Earth Power,Dark Pulse,Protect,Modest,Life Orb,Levitate
+34.0,Metagross,Iron Head,Ice Punch,Zen Headbutt,Protect,Adamant,Metagrossite,Clear Body
+35.0,Aegislash,King's Shield,Wide Guard,Shadow Ball,Flash Cannon,Quiet,Weakness Policy,Stance Change
+35.0,Milotic,Protect,Scald,Icy Wind,Recover,Bold,Maranga Berry,Competitive
+35.0,Excadrill,Protect,Rock Slide,Earthquake,Iron Head,Adamant,Focus Sash,Sand Rush
+35.0,Salamence,Roost,Dragon Pulse,Hyper Voice,Protect,Modest,Salamencite,Intimidate
+35.0,Rotom,Protect,Will-O-Wisp,Thunderbolt,Leaf Storm,Modest,Sitrus Berry,Levitate
+35.0,Tyranitar,Superpower,Fire Punch,Rock Slide,Assurance,Adamant,Assault Vest,Sand Stream
+36.0,Kangaskhan,Double-Edge,Low Kick,Protect,Fake Out,Brave,Kangaskhanite,Inner Focus
+36.0,Cresselia,Psychic,Ice Beam,Trick Room,Helping Hand,Sassy,Safety Goggles,Levitate
+36.0,Heatran,Flamethower,Flash Cannon,Earth Power,Protect,Quiet,Shuca Berry,Flash Fire
+36.0,Landorus,Earthquake,Protect,Rock Slide,Knock Off,Brave,Yache Berry,Intimidate
+36.0,Charizard,Heat Wave,Solar Beam,Overheat,Protect,Quiet,Charizardite Y,Blaze
+36.0,Sylveon,Hyper Voice,Hidden Power,Protect,Quick Attack,Quiet,Life Orb,Pixilate
+37.0,Kyogre,Origin Pulse,Ice Beam,Water Spout,Protect,Modest,Blue Orb,Drizzle
+37.0,Hitmontop,Wide Guard,Fake Out,Close Combat,Feint,Adamant,Eject Button,Intimidate
+37.0,Gengar,Protect,Taunt,Sludge Bomb,Will-O-Wisp,Timid,Gengarite,Levitate
+37.0,Raichu,Fake Out,Volt Switch,Endeavor,Nuzzle,Timid,Assault Vest,Lightning Rod
+37.0,Bronzong,Safeguard,Gyro Ball,Skill Swap,Trick Room,Sassy,Lum Berry,Levitate
+37.0,Rayquaza,Dragon Ascent,Protect,Swords Dance,Extreme Speed,Jolly,Focus Sash,Air Lock
+38.0,Kyogre,Origin Pulse,Ice Beam,Thunder,Protect,Modest,Blue Orb,Drizzle
+38.0,Groudon,Eruption,Precipice Blades,Fire Punch,Protect,Quiet,Red Orb,Drought
+38.0,Gengar,Sludge Bomb,Will-O-Wisp,Hidden Power,Protect,Timid,Gengarite,Levitate
+38.0,Talonflame,Brave Bird,Tailwind,Will-O-Wisp,Taunt,Jolly,Chesto Berry,Levitate
+38.0,Manectric,Thunder,Volt Switch,Hidden Power,Protect,Timid,Manectite,Lightning Rod
+38.0,Bronzong,Gyro Ball,Trick Room,Skill Swap,Safeguard,Relaxed,Lum Berry,Levitate
+39.0,Gengar,Sludge Bomb,Taunt,Will-O-Wisp,Protect,Timid,Gengarite,Levitate
+39.0,Rayquaza,Dragon Ascent,Extreme Speed,Protect,Swords Dance,Jolly,Focus Sash,Air Lock
+39.0,Raichu,Fake Out,Volt Switch,Endeavor,Nuzzle,Timid,Assault Vest,Lightning Rod
+39.0,Bronzong,Safeguard,Trick Room,Gyro Ball,Skill Swap,Sassy,Lum Berry,Levitate
+39.0,Hitmontop,Fake Out,Close Combat,Wide Guard,Feint,Adamant,Eject Button,Intimidate
+39.0,Kyogre,Origin Pulse,Water Spout,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+40.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Modest,Power Herb,Fairy Aura
+40.0,Kangaskhan,Fake Out,Sucker Punch,Safeguard,Double-Edge,Jolly,Kangaskhanite,Inner Focus
+40.0,Groudon,Precipice Blades,Protect,Fire Punch,Substitute,Adamant,Red Orb,Drought
+40.0,Bronzong,Gyro Ball,Trick Room,Gravity,Hypnosis,Relaxed,Mental Herb,Heatproof
+40.0,Hitmontop,Fake Out,Wide Guard,Close Combat,Feint,Adamant,Fist Plate,Intimidate
+40.0,Thundurus,Thunderbolt,Taunt,Thunder Wave,Protect,Calm,Sitrus Berry,Prankster
+41.0,Rayquaza,Dragon Ascent,Extreme Speed,Protect,Swords Dance,Jolly,Focus Sash,Air Lock
+41.0,Kyogre,Origin Pulse,Water Spout,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+41.0,Hitmontop,Fake Out,Close Combat,Wide Guard,Feint,Adamant,Eject Button,Intimidate
+41.0,Raichu,Fake Out,Volt Switch,Endeavor,Nuzzle,Timid,Assault Vest,Lightning Rod
+41.0,Bronzong,Safeguard,Trick Room,Gyro Ball,Skill Swap,Sassy,Lum Berry,Levitate
+41.0,Gengar,Sludge Bomb,Taunt,Will-O-Wisp,Protect,Timid,Gengarite,Levitate
+42.0,Cresselia,Psychic,Icy Wind,Skill Swap,Trick Room,Modest,Sitrus Berry,Levitate
+42.0,Xerneas,Protect,Geomancy,Moonblast,Dazzling Gleam,Bold,Power Herb,Fairy Aura
+42.0,Groudon,Protect,Swords Dance,Precipice Blades,Fire Punch,Adamant,Red Orb,Drought
+42.0,Smeargle,Spiky Shield,Crafty Shield,Wide Guard,Dark Void,Bold,Focus Sash,Moody
+42.0,Salamence,Protect,Tailwind,Double-Edge,Hyper Voice,Hasty,Salamencite,Intimidate
+42.0,Bronzong,Trick Room,Gravity,Hypnosis,Gyro Ball,Sassy,Lum Berry,Heatproof
+43.0,Infernape,Fake Out,Close Combat,Overheat,Quick Guard,Naive,Focus Sash,Blaze
+43.0,Xerneas,Dazzling Gleam,Moonblast,Geomancy,Protect,Modest,Power Herb,Fairy Aura
+43.0,Amoonguss,Grass Knot,Rage Powder,Spore,Protect,Sassy,Lum Berry,Regenerator
+43.0,Salamence,Hyper Voice,Double-Edge,Protect,Draco Meteor,Naive,Salamencite,Intimidate
+43.0,Kyogre,Ice Beam,Water Spout,Scald,Protect,Quiet,Blue Orb,Drizzle
+43.0,Bronzong,Gyro Ball,Safeguard,Trick Room,Skill Swap,Sassy,Mental Herb,Levitate
+44.0,Smeargle,Dark Void,Fake Out,Transform,Switcheroo,Jolly,Choice Scarf,Own Tempo
+44.0,Scrafty,Knock Off,Low Kick,Fake Out,Quick Guard,Adamant,Lum Berry,Intimidate
+44.0,Rayquaza,Dragon Ascent,Extreme Speed,Swords Dance,Protect,Jolly,Focus Sash,Air Lock
+44.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Timid,Power Herb,Fairy Aura
+44.0,Volcarona,Overheat,Whirlwind,Rage Powder,Protect,Timid,Red Card,Flame Body
+44.0,Thundurus,Thunderbolt,Taunt,Thunder Wave,Protect,Timid,Sitrus Berry,Prankster
+45.0,Kyogre,Water Spout,Origin Pulse,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+45.0,Landorus,Earthquake,Rock Slide,U-turn,Protect,Jolly,Life Orb,Intimidate
+45.0,Kangaskhan,Fake Out,Double-Edge,Sucker Punch,Power-Up Punch,Jolly,Kangaskhanite,Inner Focus
+45.0,Rayquaza,Dragon Ascent,Extreme Speed,Overheat,Protect,Naive,Focus Sash,Air Lock
+45.0,Thundurus,Thunderbolt,Swagger,Taunt,Thunder Wave,Calm,Sitrus Berry,Prankster
+45.0,Ferrothorn,Power Whip,Gyro Ball,Leech Seed,Protect,Brave,Leftovers,Iron Barbs
+46.0,Kangaskhan,Fake Out,Power-Up Punch,Return,Sucker Punch,Jolly,Kangaskhanite,Inner Focus
+46.0,Amoonguss,Grass Knot,Spore,Rage Powder,Protect,Relaxed,Mental Herb,Effect Spore
+46.0,Xerneas,Geomancy,Dazzling Gleam,Moonblast,Protect,Timid,Power Herb,Fairy Aura
+46.0,Smeargle,Fake Out,Dark Void,Follow Me,Spiky Shield,Timid,Focus Sash,Moody
+46.0,Talonflame,Brave Bird,Flare Blitz,Tailwind,Quick Guard,Adamant,Life Orb,Gale Wings
+46.0,Groudon,Precipice Blades,Fire Punch,Rock Tomb,Protect,Jolly,Red Orb,Drought
+47.0,Whimsicott,Encore,Tailwind,Safeguard,Moonblast,Timid,Focus Sash,Prankster
+47.0,Kangaskhan,Fake Out,Sucker Punch,Power-Up Punch,Double-Edge,Jolly,Kangaskhanite,Inner Focus
+47.0,Groudon,Eruption,Overheat,Earth Power,Protect,Modest,Red Orb,Drought
+47.0,Cresselia,Skill Swap,Safeguard,Trick Room,Icy Wind,Timid,Sitrus Berry,Levitate
+47.0,Kyogre,Water Spout,Thunder,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+47.0,Gengar,Icy Wind,Sludge Bomb,Disable,Protect,Timid,Gengarite,Levitate
+48.0,Kyogre,Origin Pulse,Thunder,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+48.0,Smeargle,Dark Void,Fake Out,Transform,Spiky Shield,Relaxed,Focus Sash,Moody
+48.0,Salamence,Hyper Voice,Double-Edge,Tailwind,Protect,Hasty,Salamencite,Intimidate
+48.0,Cresselia,Psychic,Icy Wind,Thunder Wave,Trick Room,Modest,Sitrus Berry,Levitate
+48.0,Kangaskhan,Double-Edge,Low Kick,Sucker Punch,Fake Out,Jolly,Kangaskhanite,Scrappy
+48.0,Groudon,Eruption,Earth Power,Precipice Blades,Protect,Serious,Red Orb,Drought
+49.0,Whimsicott,Moonblast,Tailwind,Safeguard,Encore,Timid,Focus Sash,Prankster
+49.0,Rayquaza,Dragon Ascent,Extreme Speed,Waterfall,Icy Wind,Adamant,Assault Vest,Air lock
+49.0,Gyarados,Waterfall,Icy Wind,Thunder Wave,Roar,Adamant,Sitrus Berry,Intimidate
+49.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Modest,Power Herb,Fairy Aura
+49.0,Scrafty,Knock Off,Low Kick,Fake Out,Quick Guard,Careful,Lum Berry,Intimidate
+49.0,Arcanine,Flare Blitz,Extreme Speed,Helping Hand,Roar,Adamant,Life Orb,Intimidate
+50.0,Groudon,Earth Power,Overheat,Eruption,Protect,Modest,Red Orb,Drought
+50.0,Rayquaza,Dragon Ascent,Waterfall,Extreme Speed,Draco Meteor,Jolly,Assault Vest,Air Lock
+50.0,Thundurus,Thunderbolt,Thunder Wave,Taunt,Protect,Timid,Sitrus Berry,Prankster
+50.0,Kangaskhan,Frustration,Power-Up Punch,Sucker Punch,Fake Out,Jolly,Kangaskhanite,Inner Focus
+50.0,Scizor,Bullet Punch,Knock Off,Swords Dance,Protect,Adamant,Life Orb,Technician
+50.0,Cresselia,Psychic,Icy Wind,Skill Swap,Trick Room,Sassy,Lum Berry,Levitate
+51.0,Thundurus,Thunderbolt,Taunt,Thunder Wave,Protect,Timid,Focus Sash,Prankster
+51.0,Yveltal,Knock Off,Foul Play,Sucker Punch,Protect,Jolly,Life Orb,Dark Aura
+51.0,Kangaskhan,Fake Out,Double-Edge,Sucker Punch,Power-Up Punch,Jolly,Kangaskhanite,Scrappy
+51.0,Groudon,Eruption,Hidden Power,Earth Power,Protect,Timid,Red Orb,Drought
+51.0,Crobat,Tailwind,Haze,Quick Guard,Super Fang,Timid,Lum Berry,Inner Focus
+51.0,Smeargle,Feint,Dark Void,Transform,Taunt,Timid,Choice Scarf,Moody
+52.0,Kangaskhan,Fake Out,Sucker Punch,Power-Up Punch,Double-Edge,Adamant,Kangaskhanite,Inner Focus
+52.0,Smeargle,Spiky Shield,Dark Void,Wide Guard,Crafty Shield,Bold,Chesto Berry,Moody
+52.0,Bronzong,Gyro Ball,Hypnosis,Gravity,Trick Room,Relaxed,Lum Berry,Heatproof
+52.0,Salamence,Protect,Hyper Voice,Tailwind,Double-Edge,Hasty,Salamencite,Intimidate
+52.0,Groudon,Protect,Fire Punch,Earth Power,Precipice Blades,Brave,Red Orb,Drought
+52.0,Xerneas,Protect,Moonblast,Geomancy,Dazzling Gleam,Modest,Power Herb,Fairy Aura
+53.0,Rayquaza,Dragon Ascent,Overheat,Extreme Speed,Protect,Jolly,Life Orb,Air Lock
+53.0,Meowstic,Fake Out,Heal Bell,Quick Guard,Yawn,Jolly,Chesto Berry,Prankster
+53.0,Xerneas,Moonblast,Geomancy,Dazzling Gleam,Protect,Modest,Power Herb,Fairy Aura
+53.0,Arcanine,Flare Blitz,Extreme Speed,Safeguard,Protect,Jolly,Red Card,Prankster
+53.0,Scrafty,Knock Off,Low Kick,Fake Out,Quick Guard,Sassy,Lum Berry,Intimidate
+53.0,Thundurus,Thunderbolt,Thunder Wave,Taunt,Protect,Timid,Focus Sash,Prankster
+54.0,Kangaskhan,Double-Edge,Fake Out,Sucker Punch,Power-Up Punch,Adamant,Kangaskhanite,Inner Focus
+54.0,Groudon,Precipice Blades,Earth Power,Fire Punch,Protect,Brave,Red Orb,Drought
+54.0,Xerneas,Dazzling Gleam,Geomancy,Moonblast,Protect,Modest,Power Herb,Fairy Aura
+54.0,Salamence,Hyper Voice,Tailwind,Double-Edge,Protect,Hasty,Salamencite,Intimidate
+54.0,Bronzong,Gyro Ball,Hypnosis,Gravity,Trick Room,Relaxed,Lum Berry,Heatproof
+54.0,Smeargle,Dark Void,Wide Guard,Crafty Shield,Spiky Shield,Bold,Chesto Berry,Moody
+55.0,Bronzong,Safeguard,Trick Room,Gyro Ball,Skill Swap,Sassy,Red Card,Levitate
+55.0,Thundurus,Thunder Wave,Thunderbolt,Protect,Taunt,Timid,Sitrus Berry,Prankster
+55.0,Groudon,Earth Power,Eruption,Precipice Blades,Protect,Lonely,Red Orb,Drought
+55.0,Salamence,Protect,Double-Edge,Hyper Voice,Tailwind,Lonely,Red Orb,Drought
+55.0,Gengar,Sludge Bomb,Icy Wind,Substitute,Protect,Timid,Gengarite,Levitate
+55.0,Kyogre,Origin Pulse,Icy Wind,Thunder,Protect,Modest,Blue Orb,Drizzle
+56.0,Groudon,Precipice Blades,Fire Punch,Swords Dance,Protect,Brave,Red Orb,Drought
+56.0,Smeargle,Dark Void,Wide Guard,Crafty Shield,Spiky Shield,Bold,Chesto Berry,Moody
+56.0,Kangaskhan,Fake Out,Double-Edge,Power-Up Punch,Sucker Punch,Jolly,Kangaskhanite,Inner Focus
+56.0,Bronzong,Gyro Ball,Gravity,Hypnosis,Trick Room,Relaxed,Lum Berry,Heatproof
+56.0,Xerneas,Dazzling Gleam,Moonblast,Geomancy,Protect,Modest,Power Herb,Fairy Aura
+56.0,Salamence,Hyper Voice,Double-Edge,Tailwind,Protect,Naive,Salamencite,Intimidate
+57.0,Kangaskhan,Fake Out,Sucker Punch,Return,Power-Up Punch,Jolly,Kangaskhanite,Inner Focus
+57.0,Cresselia,Trick Room,Skill Swap,Psychic,Icy Wind,Timid,Sitrus Berry,Levitate
+57.0,Salamence,Protect,Tailwind,Hyper Voice,Double-Edge,Hasty,Salamencite,Intimidate
+57.0,Smeargle,Spiky Shield,Dark Void,Follow Me,Transform,Jolly,Focus Sash,Moody
+57.0,Xerneas,Protect,Geomancy,Dazzling Gleam,Moonblast,Modest,Power Herb,Fairy Aura
+57.0,Groudon,Protect,Substitute,Fire Punch,Precipice Blades,Adamant,Red Orb,Drought
+58.0,Groudon,Eruption,Hidden Power,Protect,Earth Power,Timid,Red Orb,Drought
+58.0,Smeargle,Dark Void,Follow Me,Spiky Shield,Wide Guard,Timid,Focus Sash,Moody
+58.0,Crobat,Tailwind,Taunt,Haze,Super Fang,Timid,Lum Berry,Inner Focus
+58.0,Ferrothorn,Gyro Ball,Leech Seed,Power Whip,Protect,Brave,Leftovers,Iron Barbs
+58.0,Rayquaza,Draco Meteor,Extreme Speed,Protect,Dragon Ascent,Naive,Life Orb,Air Lock
+58.0,Suicune,Tailwind,Scald,Icy Wind,Roar,Bold,Sitrus Berry,Pressure
+59.0,Gyarados,Waterfall,Crunch,Dragon Dance,Protect,Jolly,Gyaradosite,Intimidate
+59.0,Talonflame,Brave Bird,Flare Blitz,Swords Dance,Tailwind,Adamant,Life Orb,Gale Wings
+59.0,Raichu,Volt Tackle,Encore,Helping Hand,Fake Out,Jolly,Focus Sash,Lightning Rod
+59.0,Rayquaza,Dragon Ascent,Draco Meteor,Extreme Speed,Overheat,Hasty,Assault Vest,Air Lock
+59.0,Xerneas,Dazzling Gleam,Moonblast,Geomancy,Protect,Modest,Power Herb,Fairy Aura
+59.0,Amoonguss,Clear Smog,Spore,Rage Powder,Protect,Sassy,Lum Berry,Regenerator
+60.0,Salamence,Hyper Voice,Double-Edge,Tailwind,Roar,Hasty,Salamencite,Intimidate
+60.0,Talonflame,Brave Bird,Flare Blitz,Tailwind,U-turn,Adamant,Choice Band,Gale Wings
+60.0,Groudon,Eruption,Earth Power,Hidden Power,Protect,Timid,Red Orb,Drought
+60.0,Raichu,Volt Tackle,Fake Out,Feint,Encore,Jolly,Life Orb,Lightning Rod
+60.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Timid,Power Herb,Fairy Aura
+60.0,Smeargle,Dark Void,Wide Guard,Crafty Shield,Spiky Shield,Bold,Focus Sash,Moody
+61.0,Kyogre,Water Spout,Scald,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+61.0,Kangaskhan,Fake Out,Double-Edge,Low Kick,Protect,Jolly,Kangaskhanite,Inner Focus
+61.0,Thundurus,Thunderbolt,Hidden Power,Taunt,Thunder Wave,Timid,Life Orb,Prankster
+61.0,Bronzong,Gyro Ball,Trick Room,Skill Swap,Safeguard,Sassy,Chesto Berry,Levitate
+61.0,Cresselia,Skill Swap,Icy Wind,Gravity,Trick Room,Timid,Sitrus Berry,Levitate
+61.0,Groudon,Precipice Blades,Fire Punch,Rock Slide,Protect,Adamant,Red Orb,Drought
+62.0,Groudon,Eruption,Earth Power,Thunderbolt,Protect,Timid,Red Orb,Drought
+62.0,Kangaskhan,Frustration,Sucker Punch,Power-Up Punch,Fake Out,Jolly,Kangaskhanite,Inner Focus
+62.0,Talonflame,Brave Bird,Flare Blitz,Tailwind,Snatch,Jolly,Life Orb,Gale Wings
+62.0,Xerneas,Dazzling Gleam,Moonblast,Geomancy,Protect,Timid,Power Herb,Fairy Aura
+62.0,Salamence,Hyper Voice,Double-Edge,Tailwind,Protect,Naive,Salanencite,Intimidate
+62.0,Smeargle,Fake Out,Dark Void,Follow Me,Wide Guard,Relaxed,Focus Sash,Moody
+63.0,Gengar,Sludge Bomb,Hidden Power,Hypnosis,Protect,Timid,Gengarite,Levitate
+63.0,Groudon,Earth Power,Eruption,Protect,Hidden Power,Timid,Red Orb,Drought
+63.0,Terrakion,Close Combat,Rock Slide,Poison Jab,Protect,Jolly,Lum Berry,Justified
+63.0,Crobat,Tailwind,Quick Guard,Taunt,Super Fang,Timid,Mental Herb,Inner Focus
+63.0,Whimsicott,Tailwind,Protect,Encore,Beat Up,Timid,Focus Sash,Prankster
+63.0,Kyogre,Water Spout,Origin Pulse,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+64.0,Kangaskhan,Fake Out,Return,Sucker Punch,Power-Up Punch,Jolly,Kangaskhanite,Scrappy
+64.0,Salamence,Hyper Voice,Double-Edge,Tailwind,Roar,Naive,Salamencite,Intimidate
+64.0,Xerneas,Geomancy,Protect,Dazzling Gleam,Moonblast,Modest,Power Herb,Fairy Aura
+64.0,Smeargle,Dark Void,Wide Guard,Fake Out,Transform,Relaxed,Focus Sash,Moody
+64.0,Talonflame,Brave Bird,Flare Blitz,Tailwind,Taunt,Jolly,Life Orb,Gale Wings
+64.0,Groudon,Eruption,Earth Power,Thunder Wave,Protect,Timid,Red Orb,Drought
+65.0,Kyogre,Water Spout,Origin Pulse,Thunder,Protect,Quiet,Blue Orb,Drizzle
+65.0,Rayquaza,Dragon Ascent,Extreme Speed,Swords Dance,Protect,Jolly,Focus Sash,Air Lock
+65.0,Mawile,Play Rough,Sucker Punch,Fire Fang,Protect,Brave,Mawilite,Intimidate
+65.0,Landorus,Earth Power,Grass Knot,Hidden Power,Protect,Modest,Life Orb,Intimidate
+65.0,Cresselia,Trick Room,Safeguard,Skill Swap,Ice Beam,Relaxed,Lum Berry,Levitate
+65.0,Amoonguss,Spore,Rage Powder,Clear Smog,Protect,Sassy,Chesto Berry,Regenerator
+66.0,Kyogre,Origin Pulse,Ice Beam,Water Spout,Protect,Timid,Blue Orb,Drizzle
+66.0,Rayquaza,Dragon Ascent,Extreme Speed,Swords Dance,Protect,Jolly,Focus Sash,Air Lock
+66.0,Amoonguss,Spore,Rage Powder,Clear Smog,Protect,Sassy,Coba Berry,Regenerator
+66.0,Kangaskhan,Fake Out,Frustration,Power-Up Punch,Protect,Jolly,Kangaskhanite,Inner Focus
+66.0,Thundurus,Thunderbolt,Thunder Wave,Taunt,Protect,Timid,Sitrus Berry,Prankster
+66.0,Aegislash,King's Shield,Shadow Ball,Gyro Ball,Wide Guard,Quiet,Iron Ball,Stance Change
+67.0,Groudon,Fire Punch,Precipice Blades,Rock Slide,Protect,Jolly,Red Orb,Drought
+67.0,Kyogre,Origin Pulse,Ice Beam,Thunder,Protect,Quiet,Blue Orb,Drizzle
+67.0,Salamence,Double-Edge,Hyper Voice,Tailwind,Protect,Naive,Salamencite,Intimidate
+67.0,Kangaskhan,Fake Out,Double-Edge,Power-Up Punch,Sucker Punch,Jolly,Kangaskhanite,Scrappy
+67.0,Bronzong,Gyro Ball,Hypnosis,Skill Swap,Trick Room,Sassy,Lum Berry,Levitate
+67.0,Thundurus,Thunderbolt,Hidden Power,Thunder Wave,Protect,Timid,Focus Sash,Prankster
+68.0,Hitmontop,Fake Out,Wide Guard,Feint,Close Combat,Adamant,Eject Button,Intimidate
+68.0,Rayquaza,Dragon Ascent,Extreme Speed,Swords Dance,Protect,Jolly,Focus Sash,Air Lock
+68.0,Gengar,Sludge Bomb,Will-O-Wisp,Haze,Protect,Timid,Gengarite,Levitate
+68.0,Kyogre,Origin Pulse,Water Spout,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+68.0,Raichu,Fake Out,Volt Switch,Nuzzle,Endeavor,Timid,Assault Vest,Lightning Rod
+68.0,Bronzong,Gyro Ball,Trick Room,Skill Swap,Safeguard,Sassy,Lum Berry,Levitate
+69.0,Kyogre,Scald,Origin Pulse,Icy Wind,Protect,Timid,Blue Orb,Drizzle
+69.0,Rayquaza,Extreme Speed,Protect,Dragon Ascent,Swords Dance,Jolly,Focus Sash,Air Lock
+69.0,Togekiss,Air Slash,Follow Me,Tailwind,Safeguard,Calm,Lum Berry,Serene Grace
+69.0,Thundurus,Thunderbolt,Hidden Power,Thunder Wave,Taunt,Timid,Chesto Berry,Prankster
+69.0,Scizor,Bullet Punch,Bug Bite,Swords Dance,Protect,Adamant,Life Orb,Technician
+69.0,Hitmontop,Fake Out,Feint,Close Combat,Wide Guard,Adamant,Rocky Helmet,Intimidate
+70.0,Kangaskhan,Fake Out,Power-Up Punch,Return,Sucker Punch,Jolly,Kangaskhanite,Inner Focus
+70.0,Cresselia,Ice Beam,Helping Hand,Skill Swap,Trick Room,Sassy,Sitrus Berry,Levitate
+70.0,Whimsicott,Moonblast,Safeguard,Tailwind,Trick Room,Timid,Focus Sash,Prankster
+70.0,Ferrothorn,Gyro Ball,Power Whip,Worry Seed,Protect,Sassy,Lum Berry,Iron Barbs
+70.0,Groudon,Eruption,Earth Power,Precipice Blades,Protect,Brave,Red Orb,Drought
+70.0,Kyogre,Scald,Ice Beam,Water Spout,Protect,Modest,Blue Orb,Drizzle
+71.0,Talonflame,Brave Bird,Taunt,Quick Guard,Tailwind,Adamant,Life Orb,Gale Wings
+71.0,Groudon,Precipice Blades,Fire Punch,Rock Slide,Protect,Jolly,Red Orb,Drought
+71.0,Xerneas,Dazzling Gleam,Geomancy,Moonblast,Protect,Timid,Power Herb,Fairy Aura
+71.0,Salamence,Double-Edge,Hyper Voice,Tailwind,Protect,Hasty,Salamencite,Intimidate
+71.0,Smeargle,Dark Void,Crafty Shield,Wide Guard,Follow Me,Timid,Focus Sash,Moody
+71.0,Kangaskhan,Double-Edge,Low Kick,Sucker Punch,Fake Out,Jolly,Kangaskhanite,Inner Focus
+72.0,Xerneas,Geomancy,Moonblast,Dazzling Gleam,Protect,Timid,Power Herb,Fairy Aura
+72.0,Talonflame,Brave Bird,Flare Blitz,Tailwind,Protect,Adamant,Life Orb,Gale Wings
+72.0,Smeargle,Fake Out,Dark Void,Follow Me,Spiky Shield,Jolly,Focus Sash,Moody
+72.0,Groudon,Fire Punch,Precipice Blades,Substitute,Protect,Jolly,Red Orb,Drought
+72.0,Salamence,Hyper Voice,Tailwind,Double-Edge,Protect,Naive,Salamencite,Intimidate
+72.0,Kangaskhan,Fake Out,Return,Power-Up Punch,Sucker Punch,Jolly,Kangaskhanite,Scrappy
+73.0,Kangaskhan,Return,Sucker Punch,Low Kick,Fake Out,Jolly,Kangaskhanite,Scrappy
+73.0,Kyogre,Water Spout,Scald,Protect,Icy Wind,Modest,Blue Orb,Drizzle
+73.0,Rayquaza,Dragon Ascent,Extreme Speed,Icy Wind,Earth Power,Jolly,Assault Vest,Air Lock
+73.0,Mawile,Iron Head,Sucker Punch,Play Rough,Protect,Adamant,Mawilite,Intimidate
+73.0,Raichu,Nuzzle,Feint,Encore,Fake Out,Jolly,Focus Sash,Lightning Rod
+73.0,Smeargle,Dark Void,Fake Out,Transform,Quick Guard,Jolly,Choice Scarf,Own Tempo
+74.0,Kangaskhan,Sucker Punch,Double-Edge,Low Kick,Fake Out,Jolly,Kangaskhanite,Inner Focus
+74.0,Kyurem,Draco Meteor,Blizzard,Ice Beam,Fusion Flare,Modest,Choice Scarf,Turboblaze
+74.0,Groudon,Fire Punch,Precipice Blades,Protect,Substitute,Brave,Red Orb,Drought
+74.0,Cresselia,Gravity,Skill Swap,Ice Beam,Trick Room,Sassy,Mental Herb,Levitate
+74.0,Ferrothorn,Gyro Ball,Protect,Power Whip,Leech Seed,Brave,Leftovers,Iron Barbs
+74.0,Talonflame,Brave Bird,Flare Blitz,Quick Guard,Tailwind,Jolly,Lum Berry,Gale Wings
+75.0,Kangaskhan,Sucker Punch,Low Kick,Double-Edge,Fake Out,Jolly,Kangaskhanite,Scrappy
+75.0,Smeargle,Dark Void,Spiky Shield,Wide Guard,Fake Out,Jolly,Focus Sash,Moody
+75.0,Salamence,Double-Edge,Hyper Voice,Tailwind,Protect,Naive,Salamencite,Intimidate
+75.0,Xerneas,Geomancy,Dazzling Gleam,Moonblast,Protect,Bold,Power Herb,Fairy Aura
+75.0,Groudon,Eruption,Thunder,Earth Power,Protect,Modest,Red Orb,Drought
+75.0,Cresselia,Magic Coat,Trick Room,Icy Wind,Helping Hand,Bold,Mental Herb,Levitate
+76.0,Xerneas,Geomancy,Moonblast,Dazzling Gleam,Protect,Timid,Power Herb,Fairy Aura
+76.0,Thundurus,Thunder Wave,Protect,Taunt,Thunderbolt,Timid,Focus Slash,Prankster
+76.0,Kangaskhan,Fake Out,Sucker Punch,Double-Edge,Power-Up Punch,Jolly,Kangaskhanite,Inner Focus
+76.0,Salamence,Double-Edge,Hyper Voice,Draco Meteor,Protect,Naive,Salmencite,Intimidate
+76.0,Cresselia,Magic Coat,Icy Wind,Skill Swap,Helping Hand,Calm,Sitrus Berry,Levitate
+76.0,Groudon,Precipice Blades,Fire Punch,Rock Slide,Protect,Adamant,Red Orb,Drought
+77.0,Krookodile,Earthquake,Crunch,Taunt,Protect,Adamant,Groundium Z,Intimidate
+77.0,Whimsicott,Nature Power,Tailwind,Charm,Protect,Modest,Normalium Z,Prankster
+77.0,Tapu Fini,Moonblast,Muddy Water,Dazzling Gleam,Ice Beam,Modest,Choice Specs,Misty Terrain
+77.0,Marowak,Flare Blitz,Shadow Bone,Brick Break,Protect,Careful,Thick Club,Lightning Rod
+77.0,Celesteela,Heavy Slam,Flamethrower,Leech Seed,Protect,Careful,Leftovers,Beast Boost
+77.0,Tapu Koko,Thunderbolt,Dazzling Gleam,Discharge,Protect,Modest,Life Orb,Electric Terrain
+78.0,Ninetales,Icy Wind,Disable,Aurora Veil,Roar,Timid,Light Clay,Snow Warning
+78.0,Arcanine,Flare Blitz,Bulldoze,Helping Hand,Protect,Adamant,Mago Berry,Intimidate
+78.0,Garchomp,Earthquake,Rock Slide,Swords Dance,Protect,Adamant,Groundium Z,Rough Skin
+78.0,Mandibuzz,Foul Play,Taunt,Tailwind,Roost,Calm,Psychic Seed,Overcoat
+78.0,Tapu Lele,Moonblast,Psyshock,Calm Mind,Protect,Modest,Wiki Berry,Psychic Surge
+78.0,Xurkitree,Thunderbolt,Dazzling Gleam,Tail Glow,Protect,Timid,Iapapa Berry,Beast Boost
+79.0,Tapu Koko,Volt Switch,Dazzling Gleam,Electro Ball,Sky Drop,Timid,Choice Scarf,Electric Surge
+79.0,Salamence,Fly,Dragon Dance,Earthquake,Protect,Adamant,Flyinium Z,Intimidate
+79.0,Snorlax,Facade,Belly Drum,High Horsepower,Recycle,Impish,Mago Berry,Gluttony
+79.0,Persian,Fake Out,Quash,Foul Play,Parting Shot,Jolly,Figy Berry,Fur Coat
+79.0,Marowak,Flare Blitz,Shadow Bone,Protect,Will-O-Wisp,Adamant,Thick Club,Lightning Rod
+79.0,Celesteela,Heavy Slam,Leech Seed,Protect,Wide Guard,Impish,Leftovers,Beast Boost
+80.0,Nihilego,Sludge Bomb,Power Gem,Trick Room,Protect,Bold,Wiki Berry,Beast Boost
+80.0,Tapu Koko,Thunderbolt,Volt Switch,Dazzling Gleam,Protect,Timid,Electrium Z,Electric Terrain
+80.0,Salamence,Draco Meteor,Flamethrower,Bulldoze,Dragon Tail,Modest,Assault Vest,Intimidate
+80.0,Metagross,Bullet Punch,Zen Headbutt,Hammer Arm,Protect,Adamant,Weakness Policy,Clear Body
+80.0,Buzzwole,Superpower,Poison Jab,Ice Punch,Protect,Adamant,Fightium Z,Beast Boost
+80.0,Gastrodon,Scald,Toxic,Recover,Clear Smog,Calm,Sitrus Berry,Storm Drain
+81.0,Tapu Koko,Thunderbolt,Dazzling Gleam,Volt Switch,Protect,Timid,Electrium Z,Electric Surge
+81.0,Persian,Fake Out,Foul Play,Quash,Parting Shot,Timid,Wiki Berry,Fur Coat
+81.0,Snorlax,Frustration,Belly Drum,Recycle,Protect,Adamant,Mago Berry,Gluttony
+81.0,Arcanine,Flare Blitz,Extreme Speed,Helping Hand,Protect,Adamant,Figy Berry,Intimidate
+81.0,Nihilego,Sludge Bomb,Power Gem,Hidden Power,Acid Spray,Modest,Choice Scarf,Beast Boost
+81.0,Mimikyu,Play Rough,Shadow Sneak,Psych Up,Trick Room,Adamant,Fairium Z,Disguise
+82.0,Golduck,Protect,Scald,Hydro Pump,Disable,Modest,Waterium Z,Swift Swim
+82.0,Politoed,Protect,Scald,Encore,Perish Song,Calm,Mago Berry,Drizzle
+82.0,Tapu Koko,Protect,Thunder,Dazzling Gleam,Volt Switch,Modest,Life Orb,Electric Surge
+82.0,Buzzwole,Superpower,Poison Jab,Ice Punch,Bulldoze,Adamant,Assault Vest,Beast Boost
+82.0,Klefki,Metal Sound,Light Screen,Reflect,Flash Cannon,Bold,Wiki Berry,Prankster
+82.0,Muk,Protect,Gunk Shot,Knock Off,Flamethrower,Sassy,Figy Berry,Gluttony
+83.0,Tapu Koko,Discharge,Thunderbolt,Volt Switch,Dazzling Gleam,Timid,Choice Specs,Electric Surge
+83.0,Arcanine,Flare Blitz,Protect,Extreme Speed,Roar,Careful,Aguav Berry,Intimidate
+83.0,Garchomp,Rock Slide,Earthquake,Protect,Swords Dance,Jolly,Groundium Z,Rough Skin
+83.0,Tapu Fini,Moonblast,Swagger,Scald,Taunt,Timid,Wiki Berry,Misty Surge
+83.0,Hariyama,Close Combat,Fake Out,Feint,Wide Guard,Careful,Figy Berry,Thick Fat
+83.0,Celesteela,Flamethrower,Heavy Slam,Leech Seed,Protect,Adamant,Wacan Berry,Beast Boost
+84.0,Porygon2,Recover,Trick Room,Return,Ice Beam,Relaxed,Eviolite,Download
+84.0,Tapu Koko,Protect,Dazzling Gleam,Volt Switch,Thunderbolt,Modest,Life Orb,Electric Surge
+84.0,Arcanine,Flare Blitz,Roar,Extreme Speed,Helping Hand,Adamant,Aguav Berry,Intimidate
+84.0,Kartana,Leaf Blade,Sword Dance,Sacred Sword,Protect,Jolly,Focus Sash,Beast Boost
+84.0,Araquanid,Protect,Substitute,Liquidation,Wide Guard,Brave,Waterium Z,Water Bubble
+84.0,Nihilego,Power Gem,Sludge Bomb,Acid Spray,Hidden Power,Modest,Choice Scarf,Beast Boost
+85.0,Porygon2,Ice Beam,Thunderbolt,Recover,Trick Room,Sassy,Eviolite,Download
+85.0,Tapu Koko,Thunderbolt,Volt Switch,Sky Drop,Nature's Madness,Timid,Assault Vest,Electric Terrain
+85.0,Arcanine,Flare Blitz,Will-O-Wisp,Extreme Speed,Protect,Adamant,Mago Berry,Intimidate
+85.0,Kartana,Leaf Blade,Sacred Sword,Swords Dance,Detect,Jolly,Focus Sash,Beast Boost
+85.0,Araquanid,Liquidation,Bug Bite,Substitute,Protect,Adamant,Waterium Z,Water Bubble
+85.0,Mudsdale,High Horsepower,Close Combat,Toxic,Protect,Brave,Aguav Berry,Stamina
+86.0,Tapu Koko,Thunderbolt,Volt Switch,Dazzling Gleam,Protect,Timid,Electrium Z,Electric Terrain
+86.0,Tapu Fini,Muddy Water,Moonblast,Calm Mind,Protect,Modest,Aguav Berry,Misty Terrain
+86.0,Arcanine,Flare Blitz,Extreme Speed,Bulldoze,Snarl,Adamant,Assault Vest,Intimidate
+86.0,Gigalith,Rock Slide,Stone Edge,Curse,Protect,Brave,Rockium Z,Sand Stream
+86.0,Kartana,Leaf Blade,Smart Strike,Sacred Sword,Razor Leaf,Adamant,Choice Scarf,Beast Boost
+86.0,Porygon2,Thunderbolt,Ice Beam,Recover,Trick Room,Modest,Eviolite,Download
+87.0,Porygon2,Recover,Toxic,Ice Beam,Trick Room,Relaxed,Eviolite,Download
+87.0,Araquanid,Liquidation,Bug Bite,Substitute,Protect,Adamant,Waterium Z,Water Bubble
+87.0,Tapu Koko,Thunderbolt,Discharge,Dazzling Gleam,Protect,Timid,Electrium Z,Electric Surge
+87.0,Tapu Bulu,Wood Hammer,Hidden Power,Substitute,Protect,Adamant,Figy Berry,Grassy Surge
+87.0,Arcanine,Flare Blitz,Extreme Speed,Helping Hand,Protect,Adamant,Mago Berry,Intimidate
+87.0,Mudsdale,High Horsepower,Close Combat,Heavy Slam,Rock Tomb,Adamant,Assault Vest,Stamina
+88.0,Araquanid,Liquidation,Bug Bite,Substitute,Protect,Adamant,Waterium Z,Water Bubble
+88.0,Arcanine,Flare Blitz,Extreme Speed,Helping Hand,Protect,Adamant,Mago Berry,Intimidate
+88.0,Porygon2,Recover,Toxic,Ice Beam,Trick Room,Relaxed,Eviolite,Download
+88.0,Mudsdale,Close Combat,Heavy Slam,High Horsepower,Rock Tomb,Adamant,Assault Vest,Stamina
+88.0,Tapu Bulu,Wood Hammer,Hidden Power,Substitute,Protect,Adamant,Figy Berry,Grassy Surge
+88.0,Tapu Koko,Thunderbolt,Discharge,Dazzling Gleam,Protect,Timid,Electrium Z,Electric Surge
+89.0,Whimsicott,Nature Power,Energy Ball,Encore,Protect,Modest,Normalium Z,Prankster
+89.0,Tapu Koko,Thunderbolt,Dazzling Gleam,Volt Switch,Electro Ball,Timid,Choice Specs,Electric Surge
+89.0,Tapu Fini,Muddy Water,Moonblast,Calm Mind,Protect,Modest,Wiki Berry,Misty Surge
+89.0,Celesteela,Heavy Slam,Flamethrower,Leech Seed,Protect,Careful,Wacan Berry,Beast Boost
+89.0,Porygon2,Ice Beam,Thunderbolt,Recover,Trick Room,Modest,Eviolite,Trace
+89.0,Gigalith,Stone Edge,Rock Slide,Earthquake,Protect,Brave,Rockium Z,Sand Stream
+90.0,Tapu Fini,Protect,Muddy Water,Moonblast,Calm Mind,Modest,Wiki Berry,Misty Surge
+90.0,Arcanine,Protect,Flare Blitz,Extreme Speed,Bulldoze,Careful,Mago Berry,Intimidate
+90.0,Kartana,Protect,Leaf Blade,Swords Dance,Sacred Sword,Jolly,Fightinium Z,Beast Boost
+90.0,Tapu Koko,Nature's Madness,Volt Switch,Hidden Power,Sky Drop,Timid,Assault Vest,Electric Surge
+90.0,Porygon2,Trick Room,Thunderbolt,Ice Beam,Recover,Sassy,Eviolite,Download
+90.0,Gigalith,Protect,Rock Slide,Curse,Stone Edge,Brave,Rockium Z,Sand Stream
+91.0,Tapu Koko,Thunderbolt,Nature's Madness,Sky Drop,Hidden Power,Timid,Assault Vest,Electric Terrain
+91.0,Arcanine,Flare Blitz,Will-O-Wisp,Protect,Helping Hand,Careful,Mago Berry,Intimidate
+91.0,Tapu Lele,Psychic,Psyshock,Thunderbolt,Dazzling Gleam,Modest,Choice Specs,Psychic Terrain
+91.0,Metagross,Zen Headbutt,Meteor Mash,Hammer Arm,Protect,Adamant,Psychium Z,Clear Body
+91.0,Garchomp,Earthquake,Fire Fang,Swords Dance,Protect,Adamant,Groundium Z,Rough Skin
+91.0,Mandibuzz,Foul Play,Taunt,Tailwind,Roost,Calm,Psychic Seed,Overcoat
+92.0,Arcanine,Protect,Flare Blitz,Wild Charge,Extreme Speed,Jolly,Life Orb,Intimidate
+92.0,Snorlax,Recycle,High Horsepower,Curse,Facade,Brave,Figy Berry,Gluttony
+92.0,Celesteela,Leech Seed,Protect,Heavy Slam,Flamethrower,Careful,Leftovers,Beast Boost
+92.0,Ninetales,Protect,Aurora Veil,Blizzard,Encore,Timid,Focus Sash,Snow Warning
+92.0,Tapu Koko,Thunderbolt,Sky Drop,Hidden Power,Nature's Madness,Timid,Assault Vest,Electric Surge
+92.0,Gastrodon,Scald,Ice Beam,Toxic,Recover,Quiet,Waterium Z,Storm Drain
+93.0,Porygon2,Return,Ice Beam,Trick Room,Recover,Sassy,Eviolite,Download
+93.0,Tapu Koko,Protect,Thunderbolt,Dazzling Gleam,Hidden Power,Timid,Electrium Z,Electric Surge
+93.0,Arcanine,Flare Blitz,Extreme Speed,Toxic,Protect,Adamant,Iapapa Berry,Intimidate
+93.0,Gyarados,Protect,Dragon Dance,Bounce,Waterfall,Adamant,Flyinium Z,Intimidate
+93.0,Garchomp,Dragon Claw,Earthquake,Poison Jab,Brick Break,Adamant,Assault Vest,Rough Skin
+93.0,Snorlax,Facade,Recycle,High Horsepower,Curse,Brave,Aguav Berry,Gluttony
+94.0,Hariyama,Clost Combat,Poison Jab,Fake Out,Knock Off,Bold,Fightinium Z,Guts
+94.0,Oranguru,Psyshock,Trick Room,Taunt,Instruct,Relaxed,Mental Herb,Inner Focus
+94.0,Torkoal,Eruption,Flamethrower,Solar Beam,Heat Wave,Quiet,Choice Specs,Drought
+94.0,Lucario,Final Gambit,Close Combat,Follow Me,Feint,Jolly,Choice Scarf,Inner Focus
+94.0,Gigalith,Rock Slide,Stone Edge,Earthquake,Heavy Slam,Brave,Choice Band,Sand Stream
+94.0,Celesteela,Heavy Slam,Flamethrower,Leech Seed,Protect,Careful,Leftovers,Beast Boost
+95.0,Tapu Fini,Moonblast,Muddy Water,Scald,Blizzard,Modest,Choice Specs,Misty Surge
+95.0,Ninetales,Aurora Veil,Blizzard,Freeze-Dry,Roar,Timid,Light Clay,Snow Warning
+95.0,Arcanine,Flare Blitz,Wild Charge,Extreme Speed,Protect,Adamant,Firium Z,Intimidate
+95.0,Mimikyu,Play Rough,Shadow Sneak,Psych Up,Trick Room,Brave,Mental Herb,Disguise
+95.0,Kartana,Leaf Blade,Smart Strike,Sacred Sword,Night Slash,Adamant,Choice Scarf,Beast Boost
+95.0,Snorlax,Return,Crunch,Recycle,Belly Drum,Adamant,Figy Berry,Gluttony
+96.0,Smeargle,Follow Me,Tailwind,Spore,Fake Out,Jolly,Focus Sash,Moody
+96.0,Pheromosa,Poison Jab,Ice Beam,Protect,High Jump Kick,Naughty,Poisonium Z,Beast Boost
+96.0,Nihilego,Protect,Hidden Power,Power Gem,Sludge Bomb,Timid,Life Orb,Beast Boost
+96.0,Celesteela,Heavy Slam,Protect,Leech Seed,Flamethrower,Quiet,Leftovers,Beast Boost
+96.0,Tapu Lele,Thunderbolt,Hidden Power,Psychic,Moonblast,Modest,Choice Scarf,Psychic Surge
+96.0,Xurkitree,Tail Glow,Dazzling Gleam,Protect,Thunderbolt,Timid,Wiki Berry,Beast Boost
+97.0,Gigalith,Protect,Rock Slide,Earthquake,Explosion,Brave,Weakness Policy,Sand Storm
+97.0,Tapu Koko,Dazzling Gleam,Thunderbolt,Protect,Taunt,Timid,Electrium Z,Electric Terrain
+97.0,Tapu Fini,Moonblast,Calm Mind,Protect,Muddy Water,Calm,Aguav Berry,Misty Terrain
+97.0,Arcanine,Flare Blitz,Close Combat,Extreme Speed,Wild Charge,Adamant,Choice Band,Intimidate
+97.0,Stoutland,Giga Impact,Wild Charge,After You,Protect,Jolly,Normalium Z,Sand Rush
+97.0,Ninetales,Aurora Veil,Protect,Blizzard,Encore,Timid,Focus Sash,Snow Warning
+98.0,Braviary,Tailwind,Brave Bird,Superpower,Protect,Jolly,Flyinium Z,Defiant
+98.0,Garchomp,Rock Slide,Poison Jab,Earthquake,Fire Fang,Adamant,Choice Scarf,Rough Skin
+98.0,Nihilego,Power Gem,Sludge Bomb,Hidden Power,Protect,Timid,Life Orb,Beast Boost
+98.0,Arcanine,Protect,Extreme Speed,Flare Blitz,Wild Charge,Adamant,Figy Berry,Intimidate
+98.0,Tapu Fini,Muddy Water,Scald,Moonblast,Haze,Modest,Choice Specs,Misty Surge
+98.0,Snorlax,Return,High Horsepower,Curse,Recycle,Brave,Wiki Berry,Gluttony
+99.0,Kartana,Leaf Blade,Smart Strike,Sacred Sword,Detect,Jolly,Life Orb,Beast Boost
+99.0,Mimikyu,Shadow Claw,Trick Room,Psych Up,Protect,Relaxed,Mental Herb,Disguise
+99.0,Marowak,Flare Blitz,Shadow Bone,Bonemerang,Protect,Careful,Thick Club,Lightning Rod
+99.0,Gigalith,Rock Slide,Stone Edge,Wide Guard,Protect,Brave,Rockium Z,Sand Stream
+99.0,Snorlax,Return,Rock Slide,Belly Drum,Protect,Relaxed,Figy Berry,Gluttony
+99.0,Tapu Bulu,Wood Hammer,Taunt,Whirlwind,Protect,Brave,Grassium Z,Grassy Terrain
+100.0,Metagross,Meteor Mash,Zen Headbutt,Hammer Arm,Protect,Adamant,Figy Berry,Clear Body
+100.0,Tapu Bulu,Wood Hammer,Leech Seed,Horn Leech,Protect,Impish,Aguav Berry,Grassy Surge
+100.0,Snorlax,Double-Edge,Recycle,Curse,High Horsepower,Brave,Payapa Berry,Gluttony
+100.0,Politoed,Haze,Protect,Scald,Ice Beam,Calm,Sitrus Berry,Drizzle
+100.0,Oranguru,Instruct,Trick Room,Psychic,Protect,Relaxed,Mental Herb,Inner Focus
+100.0,Arcanine,Toxic,Flare Blitz,Helping Hand,Morning Sun,Careful,Mago Berry,Intimidate
+101.0,Tapu Koko,Thunderbolt,Dazzling Gleam,Volt Switch,Discharge,Timid,Choice Specs,Electric Surge
+101.0,Salamence,Double-Edge,Dragon Dance,Roost,Protect,Jolly,Salamencite,Intimidate
+101.0,Snorlax,Frustration,Belly Drum,Recycle,Protect,Adamant,Aguav Berry,Gluttony
+101.0,Incineroar,Flare Blitz,Snarl,Snatch,Fake Out,Careful,Figy Berry,Intimidate
+101.0,Gastrodon,Earth Power,Ice Beam,Recover,Protect,Modest,Groundium Z,Storm Drain
+101.0,Kartana,Leaf Blade,Sacred Sword,Tailwind,Protect,Adamant,Grassium Z,Beast Boost
+102.0,Tapu Bulu,Wood Hammer,Stone Edge,Protect,Superpower,Adamant,Choice Scarf,Grassy Surge
+102.0,Incineroar,Fake Out,Flare Blitz,U-turn,Protect,Sassy,Figy Berry,Intimidate
+102.0,Gengar,Shadow Ball,Substitute,Perish Song,Protect,Timid,Gengarite,Cursed Body
+102.0,Latias,Psychic,Ice Beam,Icy Wind,Protect,Timid,Psychium Z,Levitate
+102.0,Landorus,Earthquake,Rock Tomb,U-turn,Protect,Careful,Groundium Z,Intimidate
+102.0,Politoed,Scald,Encore,Perish Song,Protect,Sassy,Wiki Berry,Drizzle
+103.0,Metagross,Iron Head,Stomping Tantrum,Ice Punch,Protect,Jolly,Metagrossite,Clear Body
+103.0,Mimikyu,Shadow Claw,Taunt,Destiny Bond,Trick Room,Jolly,Ghostium Z,Disguise
+103.0,Snorlax,Frustration,Belly Drum,Recycle,Protect,Impish,Mago Berry,Gluttony
+103.0,Landorus,Earth Power,Stone Edge,Hidden Power,U-turn,Modest,Choice Scarf,Intimidate
+103.0,Incineroar,Fake Out,Flare Blitz,Knock Off,U-turn,Adamant,Figy Berry,Intimidate
+103.0,Tapu Koko,Thunderbolt,Dazzling Gleam,Volt Switch,Protect,Timid,Electrium Z,Electric Surge
+104.0,Tapu Koko,Thunderbolt,Dazzling Gleam,Calm Mind,Protect,Timid,Electrium Z,Electric Surge
+104.0,Gothitelle,Psychic,Trick Room,Helping Hand,Protect,Modest,Psychium Z,Competitive
+104.0,Salamence,Frustration,Dragon Dance,Roost,Protect,Adamant,Salamencite,Intimidate
+104.0,Snorlax,Double-Edge,High Horsepower,Superpower,Self-Destruct,Brave,Choice Band,Thick Fat
+104.0,Incineroar,Flare Blitz,Knock Off,Low Kick,Fake Out,Brave,Assault Vest,Intimidate
+104.0,Amoonguss,Energy Ball,Rage Powder,Spore,Protect,Calm,Occa Berry,Regenerator
+105.0,Kartana,Tailwind,Leaf Blade,Sacred Sword,Protect,Jolly,Focus Sash,Beast Boost
+105.0,Tapu Fini,Muddy Water,Moonblast,Taunt,Protect,Modest,Waterium Z,Misty Surge
+105.0,Tyranitar,Rock Slide,Crunch,Dragon Dance,Protect,Jolly,Weakness Policy,Sand Stream
+105.0,Gengar,Sludge Bomb,Shadow Ball,Icy Wind,Protect,Timid,Gengarite,Cursed Body
+105.0,Incineroar,Flare Blitz,Fake Out,Knock Off,U-turn,Adamant,Figy Berry,Intimidate
+105.0,Landorus,Earth Power,Stone Edge,Hidden Power,U-turn,Modest,Choice Scarf,Intimidate
+106.0,Tapu Koko,Thunderbolt,Hidden Power,Calm Mind,Protect,Timid,Electrium Z,Electric Surge
+106.0,Tapu Fini,Muddy Water,Moonblast,Haze,Protect,Modest,Waterium Z,Misty Surge
+106.0,Cresselia,Icy Wind,Helping Hand,Ally Switch,Trick Room,Calm,Wiki Berry,Levitate
+106.0,Heatran,Heat Wave,Earth Power,Nature Power,Protect,Modest,Life Orb,Flash Fire
+106.0,Landorus,Stone Edge,Earthquake,U-turn,Superpower,Adamant,Choice Band,Intimidate
+106.0,Kangaskhan,Return,Drain Punch,Sucker Punch,Fake Out,Adamant,Kangaskhanite,Scrappy
+107.0,Charizard,Heat Wave,Flamethrower,Tailwind,Protect,Modest,Charizardite Y,Blaze
+107.0,Landorus,Rock Slide,Earthquake,Swords Dance,Protect,Jolly,Groundium Z,Intimidate
+107.0,Kartana,Leaf Blade,Sacred Sword,Tailwind,Protect,Jolly,Focus Sash,Beast Boost
+107.0,Tapu Lele,Psychic,Moonblast,Shadow Ball,Dazzling Gleam,Modest,Choice Scarf,Psychic Surge
+107.0,Cresselia,Ice Beam,Ally Switch,Helping Hand,Trick Room,Bold,Psychium Z,Levitate
+107.0,Snorlax,Return,Earthquake,Belly Drum,Protect,Impish,Aguav Berry,Gluttony
+108.0,Persian,Pating Shot,Fake Out,Foul Play,Taunt,Jolly,Black Glasses,Fur Coat
+108.0,Tapu Bulu,Wood Hammer,Rock Slide,Horn Leech,Superpower,Jolly,Choice Scarf,Grassy Surge
+108.0,Tapu Fini,Muddy Water,Moonblast,Calm Mind,Protect,Timid,Mago Berry,Misty Surge
+108.0,Metagross,Iron Head,Ice Punch,Rock Slide,Protect,Jolly,Metagrossite,Clear Body
+108.0,Landorus,Earth Power,Hidden Power,Rock Tomb,U-turn,Modest,Assault Vest,Intimidate
+108.0,Volcarona,Quiver Dance,Fire Blast,Bug Buzz,Protect,Timid,Buginium Z,Flame Body
+109.0,Incineroar,Fake Out,Flare Blitz,Knock Off,U-turn,Adamant,Figy Berry,Intimidate
+109.0,Gardevoir,Hyper Voice,Psyshock,Trick Room,Protect,Modest,Gardevoirite,Trace
+109.0,Tapu Koko,Thunderbolt,Dazzling Gleam,Volt Switch,Protect,Modest,Electrium Z,Electric Surge
+109.0,Landorus,Earth Power,Sludge Bomb,Hidden Power,Stone Edge,Modest,Choice Scarf,Intimidate
+109.0,Porygon2,Ice Beam,Shadow Ball,Recover,Trick Room,Sassy,Eviolite,Download
+109.0,Araquanid,Liquidation,Bug Bite,Substitute,Protect,Adamant,Waterium Z,Water Bubble
+110.0,Bisharp,Knock Off,Low Kick,Sucker Punch,Protect,Adamant,Life Orb,Defiant
+110.0,Blaziken,Flare Blitz,Low Kick,Rock Slide,Protect,Adamant,Blazikenite,Blaze
+110.0,Tapu Bulu,Wood Hammer,Horn Leech,Rock Slide,Superpower,Jolly,Choice Scarf,Grassy Surge
+110.0,Amoonguss,Sludge Bomb,Spore,Rage Powder,Protect,Relaxed,Wiki Berry,Regenerator
+110.0,Mimikyu,Play Rough,Shadow Sneak,Trick Room,Protect,Adamant,Mimikium Z,Disguise
+110.0,Snorlax,Double-Edge,High Horsepower,Self-Destruct,Fire Punch,Adamant,Choice Band,Thick Fat
+111.0,Metagross,Iron Head,Ice Punch,Stomping Tantrum,Bullet Punch,Adamant,Metagrossite,Clear Body
+111.0,Tapu Koko,Thunderbolt,Volt Switch,Dazzling Gleam,Protect,Timid,Electrium Z,Electric Surge
+111.0,Incineroar,Flare Blitz,Knock Off,Low Kick,Fake Out,Adamant,Mago Berry,Intimidate
+111.0,Venusaur,Giga Drain,Sludge Bomb,Leech Seed,Protect,Modest,Venusaurite,Chlorophyll
+111.0,Porygon2,Thunderbolt,Ice Beam,Recover,Trick Room,Sassy,Eviolite,Download
+111.0,Araquanid,Liquidation,Bug Bite,Wide Guard,Protect,Brave,Waterium Z,Water Bubble
+112.0,Tapu Lele,Psychic,Shadow Ball,Hidden Power,Moonblast,Timid,Choice Scarf,Psychic Surge
+112.0,Landorus,Swords Dance,Earthquake,Rock Slide,Protect,Adamant,Groundium Z,Intimidate
+112.0,Charizard,Heat Wave,Tailwind,Protect,Solar Beam,Modest,Charizardite Y,Blaze
+112.0,Amoonguss,Clear Smog,Protect,Rage Powder,Spore,Sassy,Occa Berry,Regenerator
+112.0,Metagross,Ice Punch,Iron Head,Stomping Tantrum,Protect,Jolly,Metagrossite,Clear Body
+112.0,Nihilego,Power Gem,Sludge Bomb,Protect,Hidden Power,Modest,Adrenaline Orb,Beast Boost
+113.0,Kartana,Leaf Blade,Sacred Sword,Substitute,Detect,Adamant,Aguav Berry,Beast Boost
+113.0,Cresselia,Psyshock,Icy Wind,Helping Hand,Light Screen,Calm,Sitrus Berry,Levitate
+113.0,Landorus,Earthquake,Rock Slide,Swords Dance,Protect,Adamant,Groundium Z,Intimidate
+113.0,Incineroar,Knock Off,Flare Blitz,Snarl,Fake Out,Adamant,Figy Berry,Intimidate
+113.0,Tapu Fini,Moonblast,Muddy Water,Calm Mind,Protect,Modest,Mago Berry,Misty Surge
+113.0,Gengar,Sludge Bomb,Shadow Ball,Icy Wind,Protect,Modest,Gengarite,Cursed Body
+114.0,Tapu Lele,Ally Switch,Moonblast,Psychic,Protect,Timid,Psychium Z,Psychic Surge
+114.0,Landorus,Earthquake,U-turn,Rock Slide,Superpower,Adamant,Choice Scarf,Intimidate
+114.0,Kartana,Knock Off,Sacred Sword,Leaf Blade,Smart Strike,Jolly,Assault Vest,Beast Boost
+114.0,Tyranitar,Rock Slide,Crunch,Low Kick,Protect,Adamant,Life Orb,Sand Stream
+114.0,Porygon2,Ice Beam,Trick Room,Recover,Thunderbolt,Sassy,Eviolite,Download
+114.0,Charizard,Heat Wave,Overheat,Tailwind,Protect,Modest,Charizardite Y,Blaze
+115.0,Kangaskhan,Fake Out,Double-Edge,Sucker Punch,Low Kick,Adamant,Kangaskhanite,Scrappy
+115.0,Bisharp,Iron Head,Sucker Punch,Knock Off,Protect,Adamant,Focus Sash,Defiant
+115.0,Volcarona,Quiver Dance,Flamethrower,Giga Drain,Protect,Timid,Mago Berry,Flame Body
+115.0,Landorus,Earthquake,Rock Slide,Superpower,U-turn,Jolly,Choice Scarf,Intimidate
+115.0,Zapdos,Tailwind,Thunderbolt,Heat Wave,Hidden Power,Timid,Electrium Z,Pressure
+115.0,Tapu Fini,Calm Mind,Muddy Water,Moonblast,Protect,Modest,Waterium Z,Misty Surge
+116.0,Gardevoir,Trick Room,Psyshock,Protect,Hyper Voice,Modest,Gardevoirite,Trace
+116.0,Charizard,Tailwind,Solar Beam,Protect,Heat Wave,Modest,Charizardite Y,Blaze
+116.0,Incineroar,Knock Off,Fake Out,Taunt,Flare Blitz,Adamant,Mago Berry,Intimidate
+116.0,Landorus,Swords Dance,Rock Slide,Protect,Earthquake,Adamant,Groundium Z,Intimidate
+116.0,Tyranitar,Dragon Dance,Crunch,Protect,Rock Slide,Jolly,Weakness Policy,Sand Stream
+116.0,Amoonguss,Rage Powder,Spore,Energy Ball,Clear Smog,Sassy,Payapa Berry,Regenerator
+117.0,Terrakion,Rock Slide,Protect,Close Combat,Stone Edge,Jolly,Rockium Z,Justified
+117.0,Whimsicott,Tailwind,Fake Tears,Beat Up,Encore,Timid,Focus Sash,Prankster
+117.0,Gengar,Shadow Ball,Sludge Bomb,Disable,Protect,Timid,Gengarite,Cursed Body
+117.0,Tapu Bulu,Rock Slide,Wood Hammer,Horn Leech,Superpower,Jolly,Choice Scarf,Grassy Surge
+117.0,Kommo-o,Clanging Scales,Protect,Flamethrower,Poison Jab,Modest,Kommonium Z,Soundproof
+117.0,Snorlax,Return,High Horsepower,Curse,Recycle,Brave,Figy Berry,Gluttony
+118.0,Oranguru,Instruct,Psychic,Ally Switch,Trick Room,Relaxed,Iapapa Berry,Telepathy
+118.0,Snorlax,Protect,Return,Earthquake,Belly Drum,Relaxed,Aguav Berry,Gluttony
+118.0,Dusclops,Trick Room,Gravity,Memento,Ally Switch,Relaxed,Eviolite,Frisk
+118.0,Mawile,Sucker Punch,Play Rough,Iron Head,Psych Up,Brave,Mawilite,Intimidate
+118.0,Pelipper,Surf,Hydro Pump,Ice Beam,Hurricane,Quiet,Choice Specs,Drizzle
+118.0,Mimikyu,Psych Up,Trick Room,Taunt,Play Rough,Brave,Mental Herb,Disguise
+119.0,Metagross,Iron Head,Ice Punch,Stomping Tantrum,Protect,Adamant,Metagrossite,Clear Body
+119.0,Charizard,Heat Wave,Solar Beam,Tailwind,Protect,Modest,Charizardite Y,Blaze
+119.0,Tapu Lele,Psychic,Psyshock,Moonblast,Nature's Madness,Timid,Assault Vest,Psychic Surge
+119.0,Landorus,Earthquake,Knock Off,Rock Slide,Protect,Adamant,Groundium Z,Intimidate
+119.0,Cresselia,Icy Wind,Toxic,Helping Hand,Ally Switch,Calm,Wiki Berry,Levitate
+119.0,Heatran,Heat Wave,Earth Power,Substitute,Protect,Modest,Shuca Berry,Flash Fire
+120.0,Lopunny,Fake Out,After You,Return,Encore,Jolly,Lopunnite,Limber
+120.0,Torkoal,Eruption,Heat Wave,Earth Power,Protect,Quiet,Charcoal,Drought
+120.0,Cresselia,Ice Beam,Helping Hand,Trick Room,Ally Switch,Calm,Mental Herb,Levitate
+120.0,Xurkitree,Thunderbolt,Tail Glow,Hidden Power,Protect,Timid,Adrenaline Orb,Beast Boost
+120.0,Snorlax,Belly Drum,Return,Crunch,Protect,Brave,Figy Berry,Gluttony
+120.0,Mimikyu,Trick Room,Taunt,Shadow Claw,Destiny Bond,Jolly,Ghostium Z,Disguise
+121.0,Swampert,Waterfall,Ice Punch,Superpower,Protect,Adamant,Swampertite,Damp
+121.0,Salamence,Return,Dragon Dance,Roost,Protect,Jolly,Salamencite,Intimidate
+121.0,Politoed,Scald,Encore,Helping Hand,Protect,Calm,Sitrus Berry,Drizzle
+121.0,Ludicolo,Hydro Pump,Energy Ball,Fake Out,Protect,Modest,Waterium Z,Swift Swim
+121.0,Incineroar,Knock Off,Flare Blitz,Fake Out,Roar,Adamant,Mago Berry,Intimidate
+121.0,Tapu Koko,Thunderbolt,Brave Bird,Volt Switch,Dazzling Gleam,Naive,Life Orb,Electric Surge
+122.0,Pelipper,Scald,Hurricane,Tailwind,Protect,Modest,Focus Sash,Drizzle
+122.0,Mimikyu,Shadow Claw,Play Rough,Psych Up,Trick Room,Brave,Ghostium Z,Disguise
+122.0,Metagross,Zen Headbutt,Iron Head,Stomping Tantrum,Rock Slide,Jolly,Metagrossite,Clear Body
+122.0,Tapu Lele,Psychic,Moonblast,Shadow Ball,Dazzling Gleam,Modest,Choice Scarf,Psychic Surge
+122.0,Ludicolo,Hydro Pump,Energy Ball,Ice Beam,Scald,Modest,Waterium Z,Swift Swim
+122.0,Snorlax,Frustration,Fire Punch,Belly Drum,Protect,Relaxed,Figy Berry,Gluttony
+123.0,Kartana,Leaf Blade,Sacred Sword,Protect,Smart Strike,Jolly,Fightinium Z,Beast Boost
+123.0,Manectric,Hidden Power,Protect,Thunderbolt,Flamethrower,Timid,Manectite,Lightning Rod
+123.0,Snorlax,High Horsepower,Double-Edge,Fire Punch,Ice Punch,Brave,Choice Band,Thick Fat
+123.0,Ninetales,Blizzard,Aurora Veil,Moonblast,Protect,Timid,Focus Sash,Snow Warning
+123.0,Milotic,Ice Beam,Protect,Haze,Scald,Modest,Aguav Berry,Competitive
+123.0,Tapu Lele,Protect,Taunt,Psychic,Moonblast,Modest,Psychium Z,Psychic Surge
+124.0,Metagross,Iron Head,Zen Headbutt,Stomping Tantrum,Protect,Jolly,Metagrossite,Clear Body
+124.0,Tapu Lele,Psychic,Moonblast,Taunt,Protect,Modest,Life Orb,Psychic Surge
+124.0,Zapdos,Thunderbolt,Hidden Power,Heat Wave,Tailwind,Calm,Wiki Berry,Pressure
+124.0,Landorus,Rock Slide,Earthquake,Superpower,Knock Off,Adamant,Assault Vest,Intimidate
+124.0,Suicune,Roar,Ice Beam,Scald,Protect,Bold,Iapapa Berry,Pressure
+124.0,Tyranitar,Dark Pulse,Rock Slide,Low Kick,Protect,Naive,Darkinium Z,Sand Stream
+125.0,Lunala,Moongeist Beam,Wide Guard,Trick Room,Protect,Modest,Colbur Berry,Shadow Shield
+125.0,Groudon,Precipice Blades,Fire Punch,Dragon Claw,Protect,Adamant,Red Orb,Drought
+125.0,Incineroar,Fake Out,Flare Blitz,Darkest Lariat,U-turn,Careful,Assault Vest,Intimidate
+125.0,Salamence,Double-Edge,Hyper Voice,Tailwind,Protect,Hasty,Salamencite,Intimidate
+125.0,Tapu Fini,Moonblast,Scald,Nature's Madness,Protect,Modest,Fairium Z,Misty Surge
+125.0,Stakataka,Gyro Ball,Stone Edge,Trick Room,Protect,Lonely,Rockium Z,Beast Boost
+126.0,Necrozma,Protect,Earth Power,Trick Room,Photon Geyser,Modest,Ultra Necrozium Z,Prism Armor
+126.0,Tapu Lele,Psychic,Magic Room,Moonblast,Dazzling Gleam,Modest,Choice Scarf,Psychic Surge
+126.0,Kangaskhan,Roar,Bite,Return,Fake Out,Jolly,Kangaskhanite,Scrappy
+126.0,Salamence,Protect,Tailwind,Double-Edge,Hyper Voice,Jolly,Salamencite,Intimidate
+126.0,Groudon,Protect,Dragon Claw,Fire Punch,Precipice Blades,Adamant,Red Orb,Drought
+126.0,Umbreon,Foul Play,Helping Hand,Moonlight,Snarl,Relaxed,Sitrus Berry,Inner Focus
+127.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Timid,Power Herb,Fairy Aura
+127.0,Incineroar,Flare Blitz,Fake Out,U-turn,Roar,Sassy,Figy Berry,Intimidate
+127.0,Tornadus,Hurricane,Role Play,Taunt,Tailwind,Timid,Flyinium Z,Prankster
+127.0,Kyogre,Water Spout,Origin Pulse,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+127.0,Kartana,Leaf Blade,Smart Strike,Knock Off,Sacred Sword,Jolly,Assault Vest,Beast Boost
+127.0,Amoonguss,Grass Knot,Clear Smog,Spore,Rage Powder,Calm,Focus Sash,Regenerator
+128.0,Yveltal,Snarl,Sucker Punch,Foul Play,Protect,Timid,Iapapa Berry,Dark Aura
+128.0,Groudon,Eruption,Earth Power,Hidden Power,Protect,Modest,Red Orb,Drought
+128.0,Tapu Koko,Electroweb,Volt Switch,Nature's Madness,Protect,Timid,Tapunium Z,Electric Surge
+128.0,Metagross,Iron Head,Stomping Tantrum,Bullet Punch,Protect,Adamant,Metagrossite,Clear Body
+128.0,Incineroar,Knock Off,Flare Blitz,Fake Out,U-turn,Brave,Assault Vest,Intimidate
+128.0,Mimikyu,Shadow Sneak,Play Rough,Trick Room,Taunt,Adamant,Mimikium Z,Disguise
+129.0,Yveltal,Foul Play,Tailwind,Sucker Punch,Protect,Jolly,Darkinium Z,Dark Aura
+129.0,Incineroar,Knock Off,Flare Blitz,Fake Out,U-turn,Careful,Figy Berry,Intimidate
+129.0,Amoonguss,Clear Smog,Protect,Rage Powder,Spore,Sassy,Focus Sash,Regenerator
+129.0,Tapu Koko,Electroweb,Nature's Madness,Wild Charge,Sky Drop,Jolly,Assault Vest,Electric Surge
+129.0,Kyogre,Scald,Ice Beam,Water Spout,Protect,Modest,Blue Orb,Drizzle
+129.0,Metagross,Iron Head,Stomping Tantrum,Bullet Punch,Protect,Jolly,Metagrossite,Clear Body
+130.0,Tapu Koko,Protect,Light Screen,Dazzling Gleam,Volt Switch,Timid,Fairium Z,Electric Surge
+130.0,Nihilego,Protect,Trick Room,Sludge Bomb,Hidden Power,Timid,Focus Sash,Beast Boost
+130.0,Kyogre,Protect,Water Spout,Scald,Ice Beam,Modest,Blue Orb,Drizzle
+130.0,Incineroar,Fake Out,U-turn,Flare Blitz,Snarl,Sassy,Iapapa Berry,Intimidate
+130.0,Rayquaza,Protect,Swords Dance,Dragon Ascent,Extreme Speed,Jolly,Aguav Berry,Air Lock
+130.0,Kartana,Leaf Blade,Sacred Sword,Smart Strike,Knock Off,Jolly,Assault Vest,Beast Boost
+131.0,Tapu Koko,Protect,Light Screen,Dazzling Gleam,Volt Switch,Timid,Fairium Z,Electric Surge
+131.0,Nihilego,Protect,Trick Room,Sludge Bomb,Hidden Power,Timid,Focus Sash,Beast Boost
+131.0,Kyogre,Protect,Water Spout,Scald,Ice Beam,Modest,Blue Orb,Drizzle
+131.0,Incineroar,Fake Out,U-turn,Flare Blitz,Snarl,Sassy,Iapapa Berry,Intimidate
+131.0,Rayquaza,Protect,Swords Dance,Dragon Ascent,Extreme Speed,Jolly,Aguav Berry,Air Lock
+131.0,Kartana,Leaf Blade,Sacred Sword,Smart Strike,Knock Off,Jolly,Assault Vest,Beast Boost
+132.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Timid,Power Herb,Fairy Aura
+132.0,Tornadus,Hurricane,Role Play,Tailwind,Taunt,Timid,Flyinium Z,Prankster
+132.0,Kyogre,Water Spout,Scald,Ice Beam,Protect,Timid,Blue Orb,Drizzle
+132.0,Incineroar,U-turn,Flare Blitz,Roar,Fake Out,Careful,Safety Goggles,Intimidate
+132.0,Kangaskhan,Double-Edge,Low Kick,Fake Out,Bite,Jolly,Kangaskhanite,Scrappy
+132.0,Amoonguss,Spore,Clear Smog,Rage Powder,Protect,Calm,Focus Sash,Regenerator
+133.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Modest,Power Herb,Fairy Aura
+133.0,Rayquaza,Dragon Ascent,Earth Power,Tailwind,Protect,Hasty,Focus Sash,Air Lock
+133.0,Togedemaru,Zing Zap,Encore,Helping Hand,Fake Out,Jolly,Eject Button,Sturdy
+133.0,Tapu Fini,Nature's Madness,Scald,Haze,Light Screen,Sassy,Wiki Berry,Misty Terrain
+133.0,Incineroar,Flare Blitz,Knock Off,U-turn,Fake Out,Careful,Assault Vest,Intimidate
+133.0,Amoonguss,Clear Smog,Rage Powder,Spore,Protect,Sassy,Red Card,Regenerator
+134.0,Incineroar,U-turn,Flare Blitz,Fake Out,Protect,Careful,Figy Berry,Intimidate
+134.0,Groudon,Precipice Blades,Fire Punch,Roar,Protect,Careful,Red Orb,Drought
+134.0,Yveltal,Oblivion Wing,Sucker Punch,Foul Play,Snarl,Calm,Assault Vest,Dark Aura
+134.0,Ferrothorn,Power Whip,Gyro Ball,Leech Seed,Protect,Brave,Leftovers,Iron Barbs
+134.0,Tapu Fini,Nature's Madness,Heal Pulse,Light Screen,Icy Wind,Calm,Mago Berry,Misty Surge
+134.0,Gengar,Perish Song,Protect,Sludge Bomb,Shadow Ball,Timid,Gengarite,Cursed Body
+135.0,Kyogre,Water Spout,Scald,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+135.0,Rayquaza,Dragon Ascent,Draco Meteor,Tailwind,Protect,Adamant,Aguav Berry,Air Lock
+135.0,Tapu Koko,Thunder,Volt Switch,Dazzling Gleam,Protect,Timid,Electrium Z,Electric Surge
+135.0,Incineroar,Flare Blitz,Throat Chop,U-turn,Fake Out,Careful,Assault Vest,Intimidate
+135.0,Ferrothorn,Gyro Ball,Power Whip,Leech Seed,Protect,Sassy,Figy Berry,Iron Barbs
+135.0,Nihilego,Sludge Bomb,Power Gem,Clear Smog,Protect,Timid,Rockium Z,Beast Boost
+136.0,Excadrill,Earthquake,Iron Head,Sword Dance,Protect,Jolly,Groundium Z,Mold Breaker
+136.0,Amoonguss,Clear Smog,Spore,Protect,Rage Powder,Sassy,Focus Sash,Regenerator
+136.0,Tapu Lele,Psychic,Psyshock,Taunt,Moonblast,Modest,Choice Scarf,Psychic Surge
+136.0,Incineroar,Fake Out,Flare Blitz,Throat Chop,U-turn,Careful,Figy Berry,Intimidate
+136.0,Xerneas,Geomancy,Dazzling Gleam,Moonblast,Protect,Timid,Power Herb,Fairy Aura
+136.0,Rayquaza,Dragon Ascent,Extreme Speed,Earth Power,Icy Wind,Hasty,Assault Vest,Air Lock
+137.0,Xerneas,Moonblast,Dazzling Gleam,Protect,Geomancy,Timid,Power Herb,Fairy Aura
+137.0,Lunala,Tailwind,Moongeist Beam,Wide Guard,Roar,Timid,Lunalium Z,Shadow Shield
+137.0,Smeargle,Spore,Follow Me,Fake Out,Taunt,Jolly,Focus Sash,Moody
+137.0,Lucario,Close Combat,Meteor Mash,Protect,Follow Me,Jolly,Lucarionite,Justified
+137.0,Tapu Lele,Psychic,Moonblast,Taunt,Shadow Ball,Modest,Choice Scarf,Psychic Surge
+137.0,Incineroar,U-turn,Flare Blitz,Fake Out,Snarl,Adamant,Assault Vest,Intimidate
+138.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Modest,Power Herb,Fairy Aura
+138.0,Groudon,Earth Power,Eruption,Roar,Protect,Timid,Red Orb,Drought
+138.0,Kangaskhan,Double-Edge,Fake Out,Bite,Brick Break,Jolly,Kangaskhanite,Scrappy
+138.0,Kartana,Leaf Blade,Sacred Sword,Tailwind,Protect,Adamant,Flyinium Z,Beast Boost
+138.0,Smeargle,Lovely Kiss,Follow Me,Wide Guard,Spiky Shield,Timid,Focus Sash,Moody
+138.0,Tapu Lele,Psyshock,Moonblast,Ally Switch,Protect,Modest,Psychium Z,Psychic Surge
+139.0,Rayquaza,Dragon Ascent,Crunch,Waterfall,Extreme Speed,Jolly,Choice Band,Air Lock
+139.0,Kyogre,Water Spout,Origin Pulse,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+139.0,Salazzle,Sludge Bomb,Overheat,Fake Out,Encore,Timid,Focus Sash,Corrosion
+139.0,Crobat,Brave Bird,Tailwind,Super Fang,Haze,Jolly,Flyinium Z,Inner Focus
+139.0,Ferrothorn,Gyro Ball,Power Whip,Leech Seed,Protect,Sassy,Figy Berry,Iron Barbs
+139.0,Incineroar,Darkest Lariat,Low Kick,Fake Out,U-turn,Adamant,Incinium Z,Intimidate
+140.0,Kyogre,Water Spout,Scald,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+140.0,Rayquaza,Dragon Ascent,Extreme Speed,Earth Power,Protect,Jolly,Life Orb,Air Lock
+140.0,Incineroar,Fake Out,Flare Blitz,Knock Off,U-turn,Careful,Mago Berry,Intimidate
+140.0,Tapu Koko,Thunder,Volt Switch,Dazzling Gleam,Protect,Timid,Fairium Z,Electric Surge
+140.0,Gothitelle,Psychic,Helping Hand,Trick Room,Protect,Calm,Aguav Berry,Shadow Tag
+140.0,Ferrothorn,Gyro Ball,Power Whip,Leech Seed,Protect,Sassy,Leftovers,Iron Barbs
+141.0,Rayquaza,Protect,Dragon Ascent,Extreme Speed,Earth Power,Hasty,Focus Sash,Air Lock
+141.0,Xerneas,Moonblast,Dazzling Gleam,Geomancy,Protect,Timid,Power Herb,Fairy Aura
+141.0,Tapu Fini,Protect,Scald,Icy Wind,Nature's Madness,Calm,Mago Berry,Misty Surge
+141.0,Incineroar,Flare Blitz,Fake Out,Throat Chop,U-turn,Adamant,Assault Vest,Intimidate
+141.0,Nihilego,Sludge Bomb,Power Gem,Clear Smog,Protect,Timid,Rockium Z,Beast Boost
+141.0,Amoonguss,Protect,Rage Powder,Spore,Grass Knot,Calm,Payapa Berry,Regenerator
+142.0,Necrozma,Moongeist Beam,Earth Power,Trick Room,Protect,Quiet,Lunalium Z,Prism Armor
+142.0,Smeargle,Explosion,Follow Me,Fake Out,Spikey Shield,Brave,Focus Sash,Technician
+142.0,Groudon,Eruption,Earth Power,Overheat,Protect,Quiet,Red Orb,Drought
+142.0,Stakataka,Gyro Ball,Rock Slide,Substitute,Trick Room,Lonely,Life Orb,Beast Boost
+142.0,Mawile,Iron Head,Play Rough,Sucker Punch,Protect,Brave,Mawilite,Intimidate
+142.0,Ferrothorn,Power Whip,Gyro Ball,Knock Off,Acid Spray,Brave,Assault Vest,Iron Barbs
+143.0,Tornadus,Hurricane,Icy Wind,Taunt,Tailwind,Timid,Flyinium Z,Prankster
+143.0,Tapu Koko,Nature's Madness,Electroweb,Protect,Volt Switch,Timid,Tapunium Z,Electric Surge
+143.0,Metagross,Iron Head,Stomping Tantrum,Protect,Bullet Punch,Jolly,Metagrossite,Clear Body
+143.0,Xerneas,Geomancy,Dazzling Gleam,Protect,Moonblast,Modest,Power Herb,Fairy Aura
+143.0,Incineroar,Fake Out,Flare Blitz,Snarl,U-turn,Careful,Assault Vest,Intimidate
+143.0,Groudon,Eruption,Overheat,Protect,Earth Power,Timid,Red Orb,Drought
+144.0,Kyogre,Scald,Water Spout,Ice Beam,Protect,Modest,Blue Orb,Drizzle
+144.0,Kartana,Leaf Blade,Smart Strike,Sacred Sword,Detect,Adamant,Focus Sash,Beast Boost
+144.0,Tapu Lele,Psychic,Moonblast,Psyshock,Magic Room,Modest,Choice Scarf,Psychic Surge
+144.0,Incineroar,Fake Out,Flare Blitz,Knock Off,U-turn,Careful,Figy Berry,Intimidate
+144.0,Stakataka,Gyro Ball,Wide Guard,Trick Room,Protect,Lonely,Mental Herb,Beast Boost
+144.0,Yveltal,Foul Play,Sucker Punch,Tailwind,Protect,Jolly,Darkinium Z,Dark Aura
+145.0,Metagross,Iron Head,Stomping Tantrum,Substitute,Protect,Jolly,Metagrossite,Clear Body
+145.0,Tapu Koko,Electroweb,Nature's Madness,Volt Switch,Protect,Timid,Tapunium Z,Electric Surge
+145.0,Tornadus,Tailwind,Taunt,Hurricane,Icy Wind,Timid,Flyinium Z,Prankster
+145.0,Kangaskhan,Fake Out,Double-Edge,Bite,Roar,Jolly,Kangaskhan,Scrappy
+145.0,Groudon,Eruption,Earth Power,Overheat,Protect,Timid,Red Orb,Drought
+145.0,Xerneas,Geomancy,Moonblast,Dazzling Gleam,Protect,Timid,Power Herb,Fairy Aura
+146.0,Kyogre,Scald,Protect,Ice Beam,Water Spout,Modest,Blue Orb,Drizzle
+146.0,Rayquaza,Dragon Ascent,Extreme Speed,Waterfall,Crunch,Jolly,Choice Band,Air Lock
+146.0,Crobat,Haze,Tailwind,Super Fang,Taunt,Timid,Focus Sash,Inner Focus
+146.0,Tapu Fini,Nature's Madness,Heal Pulse,Light Screen,Moonblast,Modest,Wiki Berry,Misty Surge
+146.0,Ferrothorn,Leech Seed,Power Whip,Gyro Ball,Knock Off,Brave,Leftovers,Iron Barbs
+146.0,Naganadel,Sludge Bomb,Draco Meteor,Flamethrower,Tailwind,Modest,Choice Scarf,Beast Boost
+147.0,Lunala,Moongeist Beam,Protect,Wide Guard,Trick Room,Quiet,Lunalium Z,Shadow Shield
+147.0,Smeargle,Fake Out,Spore,Follow Me,Wide Guard,Jolly,Focus Sash,Moody
+147.0,Snorlax,Return,Earthquake,Protect,Belly Drum,Relaxed,Aguav Berry,Gluttony
+147.0,Rayquaza,Protect,Extreme Speed,Dragon Ascent,Psych Up,Adamant,Mago Berry,Air Lock
+147.0,Tapu Fini,Nature's Madness,Scald,Heal Pulse,Haze,Sassy,Figy Berry,Misty Surge
+147.0,Mimikyu,Taunt,Psych Up,Play Rough,Trick Room,Brave,Mental Herb,Disguise
+148.0,Kyogre,Water Spout,Scald,Protect,Ice Beam,Modest,Blue Orb,Drizzle
+148.0,Incineroar,Flare Blitz,Throat Chop,U-turn,Fake Out,Adamant,Assault Vest,Intimidate
+148.0,Ferrothorn,Power Whip,Gyro Ball,Leech Seed,Protect,Sassy,Payapa Berry,Iron Barbs
+148.0,Tapu Koko,Thunderbolt,Dazzling Gleam,Volt Switch,Protect,Timid,Electrium Z,Electric Surge
+148.0,Rayquaza,Dragon Ascent,Extreme Speed,Earth Power,Protect,Hasty,Focus Sash,Air Lock
+148.0,Crobat,Super Fang,Tailwind,Haze,Taunt,Timid,Payapa Berry,Inner Focus
