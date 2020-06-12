@@ -1,2 +1,2 @@
 Story: https://public.tableau.com/profile/kristina.kun#!/vizhome/BrazilianE-CommerceRevenueReportYOY/S-BrazilianE-CommerceRevenueReportYOYStory
-KPI one page dashboard:https://public.tableau.com/profile/kristina.kun#!/vizhome/BrazilianE-commerceKPIDashboard/D-BrazilianE-commerceKPIDashboard
+KPI one page dashboard: https://public.tableau.com/profile/kristina.kun#!/vizhome/BrazilianE-commerceKPIDashboard/D-BrazilianE-commerceKPIDashboard

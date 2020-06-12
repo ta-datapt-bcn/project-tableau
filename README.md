@@ -13,6 +13,7 @@ KRISTINA KUNCEVICIUTE
 - [Dataset](#datasets)
 - [Notebooks](#notebooks)
 - [Workflow](#workflow)
+- [Links](#links)
 
 <a name="project"></a>
 
@@ -42,3 +43,10 @@ The goal of this project is to visualize data using Tableau. The project consist
 3. Insights visualization in Tableau:
     - Report that highlights the YOY changes of the Brazilian E-Commerce 
     - KPI Dashboard
+    
+<a name="links"></a>
+
+## Links
+
+- [Report that highlights the YOY changes of the Brazilian E-Commerce](https://public.tableau.com/profile/kristina.kun#!/vizhome/BrazilianE-CommerceRevenueReportYOY/S-BrazilianE-CommerceRevenueReportYOYStory)
+- [KPI Dashboard](https://public.tableau.com/profile/kristina.kun#!/vizhome/BrazilianE-commerceKPIDashboard/D-BrazilianE-commerceKPIDashboard)
