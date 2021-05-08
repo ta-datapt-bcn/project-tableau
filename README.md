@@ -41,12 +41,12 @@ Finalmente hemos creado un scatter plot para comparar el precio medio por pisos 
 
 ## Conclusión a la que hemos llegado: 
 
-Si tuviéramos que construir pisos de alquiler social los construiriamos en Torre Baró, donde los precios de los pisos son altos, el número de parados también y la población extranjera también. 
+Si tuviéramos que construir pisos de alquiler social los construiríamos en Torre Baró, donde los precios de los pisos son altos, el número de parados también y la población extranjera también. 
 
 ## Problemas encontrados: 
 
-Hemos tenido muchos problemas a la hora de subir los datasets a tableau, hemos perdido más tiempo intentando subir los documentos que haciendo las visualizaciones. 
+Hemos tenido muchos problemas a la hora de subir los datasets a tableau, hemos perdido más tiempo intentando subir los documentos y connectarlos entre ellos,  que haciendo las visualizaciones. 
 
 ## ¿Qué he aprendido?
 
-Este proyecto ha sido útil para aprender a trabajar con Tableau y practicar SQL. He aprendido que a la hora de analizar los datos hay que ser más críticos y etner en cuenta más datos, ya que por ejemplo, en el diagrama de barras en el que comparábamos el % de parados con el partido más votado, tendríamos que haber tenido en cuenta la media de edad de cada barrrio.
+Este proyecto ha sido útil para aprender a trabajar con Tableau y practicar SQL. He aprendido que a la hora de analizar los datos hay que ser más críticos y tener en cuenta más datos (ejemplo: en el diagrama de barras en el que comparábamos el % de parados con el partido más votado, tendríamos que haber tenido en cuenta la media de edad de cada barrrio)
