@@ -1,64 +1,52 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Project: Business Intelligence with Tableau
+# Proyecto: Business Intelligence with Tableau
 
 ## Overview
 
-The goal of this project is for you to practice what you have learned in the Business Intelligence chapter of this program. For this project, you will choose a data set, explore the it using Tableau, and put together a Story for presentation showing the insights you have derived from the data. You should demonstrate your proficiency using Tableau and the concepts you have learned throughout the chapter. The workbook should be saved to Tableau Public and a link to the workbook should be provided.
+El objetivo de este proyecto es hacer un análisis para ver cuál sería el mejor barrio para construir pisos de alquiler social. 
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
+## Datos utilizados
 
----
+Para hacer este anális hemos utilizado datos extraídos (https://opendata-ajuntament.barcelona.cat/es/) y de (https://ajuntament.barcelona.cat/estadistica/catala/index.htm). Los datos extraídos han sido: 
 
-## Technical Requirements
+* Resultados electorales por barrios de las elecciones locales de mayo de 2019 
+* Nacionalidades por barrios en enero de 2020 (es el último dato registrado)
+* % de población en paro  mensual por barrio en 2021 & 2019
+* CSV propio con información de diferentes pisos en BCN (precio, m2, etc...)
+* Un geojson con los barrions (polígonos) de BArcelona 
 
-The technical requirements for this project are as follows:
+Estos datos los hemos subido a DB Browser y hemos creado una base de datos (Barcelona). Dentro de esta hemos creado tres tablas más: 
 
-* You must construct a Tableau Story consisting of at least 5 story points for the data set you have chosen.
-* You must use Story features such as captions and annotations.
-* You must demonstrate all the concepts we covered in the chapter (sorting, filtering, different visualizations types, aggregations, etc.).
-* Your Tableau workbook consisting of at least 5 visualizations and 1 Story should be saved to Tableau Public.
-* You should create a Github repo for this project, and your data should be saved to that repo in a folder named data.
-* You should also include a README.md file that describes the steps you took, your thought process as you built your visualizations and Story in Tableau, and a link to your workbook on Tableau Public.
+- Paro_Abril_2019: Hemos filtrado el dataset del paro mensual 2019 y hemos cogido solo el detalle del mes de abril, con el objetivo de poderlo comparar con el resultado electoral de mayo 2019 
+- Paro_Marzo_2021: Hemos filtrado el dataset del paro mensual 2021 y hemos cogido el detalle del mes más reciente (para poder ver la distribución por barrios del paro en un Heat Map
+- Partido ganador: Hemos filtrado el dataset de los Resultados electorales y hemos creado una tabla con el partido más votado por barrio. 
 
-## Necessary Deliverables
+Finalmente hemos exportado todas las tablas que necesitábamos en formato csv y las hemos subido a Tableau. 
 
-The following deliverables should be pushed to your Github repo for this chapter.
+## Hemos presentado los datos en tableau: 
 
-* **A Tableau workbook uploaded to Tableau Public** that contains the visualizations and Story you created from your data set.
-* **An data folder** containing the data set you used for your project.
-* **A ``README.md`` file** containing a detailed explanation of your approach and code for constructing visualizations and organizing them into a Story as well as your results, obstacles encountered, lessons learned, and a link to your completed Tableau workbook.
+https://public.tableau.com/profile/gloria1001#!/vizhome/DesigualdadesenBarcelona_16204601428370/DesigualdadesenBCN
 
-## Suggested Ways to Get Started
+Hemos creado 4 Heat Maps para ver la distribución por barrios de: 
 
-* **Find a data set to process** - a great place to start looking would be [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets) and [Kaggle Data Sets](https://www.kaggle.com/datasets).
-* **Explore the data set** and come up with a variety of visualizations that you can potentially include in your story.
-* **Break the project down into different steps** - identify the entities/dimensions in your data set, explore them each individually, and then progress to analyzing different combinations of them.
-* **Use the tools in your tool kit** - the concepts and methods you have learned in the business intelligence chapter as well as some of the things you've learned in previous chapters. This is a great way to start tying everything you've learned together!
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
+* Precios de alquiler por barrio
+* Nº de extranjeros por barrio 
+* % Parados por barrio 
+* Número de extranjeros por barrio 
 
-## Useful Resources
+También hemos creado un diagrama de barras para comparar el % de parados por barrio y el partido más votado
 
-* [Tableau Getting Started Tutorial](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html)
-* [Tableau Training Videos](https://www.tableau.com/learn/training)
-* [Tableau Learning Library](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html)
+Finalmente hemos creado un scatter plot para comparar el precio medio por pisos con el % de paro. 
 
-## Project Feedback + Evaluation
+## Conclusión a la que hemos llegado: 
 
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+Si tuviéramos que construir pisos de alquiler social los construiriamos en Torre Baró, donde los precios de los pisos son altos, el número de parados también y la población extranjera también. 
 
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
+## Problemas encontrados: 
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
+Hemos tenido muchos problemas a la hora de subir los datasets a tableau, hemos perdido más tiempo intentando subir los documentos que haciendo las visualizaciones. 
 
-* __Total__: Your instructors will give you a total score on your project between:
+## ¿Qué he aprendido?
 
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
-
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+Este proyecto ha sido útil para aprender a trabajar con Tableau y practicar SQL. He aprendido que a la hora de analizar los datos hay que ser más críticos y etner en cuenta más datos, ya que por ejemplo, en el diagrama de barras en el que comparábamos el % de parados con el partido más votado, tendríamos que haber tenido en cuenta la media de edad de cada barrrio.
