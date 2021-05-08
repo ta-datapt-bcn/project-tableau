@@ -8,7 +8,7 @@ El objetivo de este proyecto es hacer un análisis para ver cuál sería el mejo
 
 ## Datos utilizados
 
-Para hacer este anális hemos utilizado datos extraídos (https://opendata-ajuntament.barcelona.cat/es/) y de (https://ajuntament.barcelona.cat/estadistica/catala/index.htm). Los datos extraídos han sido: 
+Para hacer este anális hemos utilizado datos extraídos de (https://opendata-ajuntament.barcelona.cat/es/) y de (https://ajuntament.barcelona.cat/estadistica/catala/index.htm). Los datos extraídos han sido: 
 
 * Resultados electorales por barrios de las elecciones locales de mayo de 2019 
 * Nacionalidades por barrios en enero de 2020 (es el último dato registrado)
