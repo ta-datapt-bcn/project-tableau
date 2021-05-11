@@ -1,64 +1,46 @@
 ![IronHack Logo](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d5c5793015fec3be28a63c4fa3dd4d55.png)
 
-# Project: Business Intelligence with Tableau
+# Project: 2020 Spotify Trends
 
 ## Overview
 
-The goal of this project is for you to practice what you have learned in the Business Intelligence chapter of this program. For this project, you will choose a data set, explore the it using Tableau, and put together a Story for presentation showing the insights you have derived from the data. You should demonstrate your proficiency using Tableau and the concepts you have learned throughout the chapter. The workbook should be saved to Tableau Public and a link to the workbook should be provided.
+El objetivo de este proyecto es el de estudiar las tendencias mas populares e influyentes de la música a lo largo 2020 en España a través de Spotify. Spotify es una aplicación multiplataforma sueca, empleada para la reproducción de música vía streaming, que pone a disposición de los desarrolladores su API de acceso público. Además de contar con la pagina web https://spotifycharts.com/regional donde quedan registradas las top 200 canciones mas escuchadas de cada día del año.
 
-**You will be working individually for this project**, but we'll be guiding you along the process and helping you as you go. Show us what you've got!
+De la plataforma Genius, que cuenta con una de las más grandes colecciones de canciones del mundo, se extraerán las letras de todas las canciones del top 200 de 2020.
+
+La primera parte del proyecto consistirá en la extracción de toda información de estas fuentes y una primera limpieza de los datos obtenidos. Esta información se subirá a la plataforma Big Query, el Data Warehouse de Google, integrado por Google Cloud donde se alojará nuestro dataset. Este Dataset estará formado por 3 tablas que se manipularán y limpiaran en Google Cloud para generar las tablas que se utilizarán para la visualición en Tableau. 
 
 ---
 
-## Technical Requirements
+## Data Sources
 
-The technical requirements for this project are as follows:
+Los 3 principales fuentes de información para este proyecto han sido: Spotify Charts, la API de Spotify y lyricsgenius.
 
-* You must construct a Tableau Story consisting of at least 5 story points for the data set you have chosen.
-* You must use Story features such as captions and annotations.
-* You must demonstrate all the concepts we covered in the chapter (sorting, filtering, different visualizations types, aggregations, etc.).
-* Your Tableau workbook consisting of at least 5 visualizations and 1 Story should be saved to Tableau Public.
-* You should create a Github repo for this project, and your data should be saved to that repo in a folder named data.
-* You should also include a README.md file that describes the steps you took, your thought process as you built your visualizations and Story in Tableau, and a link to your workbook on Tableau Public.
+Spotify Charts es una pagina web en donde para cada dia del año de cada país del mundo Spotify muestra las top 200 canciones mas stremeadas. La información disponible consiste de el nombre de la canción, artista, streams y la fecha. Esta información se obtendrá mediante el scrapeo de la página web utilizando BeautifulSoup.
 
-## Necessary Deliverables
+Para complementar Spotify Charts se utilizará la API de Spotify donde se encuentran disponible: una id, nombre, artista, el genero de las canciones y las propiedades que define Spotify para estas.
 
-The following deliverables should be pushed to your Github repo for this chapter.
+Finalmente para se obtendrán las letras de todas estas canciones mediante lyricsgenius, que es un cliente para Python para la API de Genius, que utiliza el scrapeo web para la obtención de estas letras.
 
-* **A Tableau workbook uploaded to Tableau Public** that contains the visualizations and Story you created from your data set.
-* **An data folder** containing the data set you used for your project.
-* **A ``README.md`` file** containing a detailed explanation of your approach and code for constructing visualizations and organizing them into a Story as well as your results, obstacles encountered, lessons learned, and a link to your completed Tableau workbook.
+## Google Big Query
 
-## Suggested Ways to Get Started
+Esta información se subirá a la plataforma Big Query, el Data Warehouse de Google, integrado por Google Cloud donde se alojará nuestro dataset. Este Dataset estará formado por 3 tablas que se manipularán y limpiaran en Google Cloud para generar las tablas que se utilizarán para la visualición en Tableau. 
 
-* **Find a data set to process** - a great place to start looking would be [Awesome Public Data Sets](https://github.com/awesomedata/awesome-public-datasets) and [Kaggle Data Sets](https://www.kaggle.com/datasets).
-* **Explore the data set** and come up with a variety of visualizations that you can potentially include in your story.
-* **Break the project down into different steps** - identify the entities/dimensions in your data set, explore them each individually, and then progress to analyzing different combinations of them.
-* **Use the tools in your tool kit** - the concepts and methods you have learned in the business intelligence chapter as well as some of the things you've learned in previous chapters. This is a great way to start tying everything you've learned together!
-* **Work through the lessons in class** & ask questions when you need to! Think about adding relevant code to your project each night, instead of, you know... _procrastinating_.
-* **Commit early, commit often**, don’t be afraid of doing something incorrectly because you can always roll back to a previous version.
-* **Consult documentation and resources provided** to better understand the tools you are using and how to accomplish what you want.
 
-## Useful Resources
+## Data Treament
 
-* [Tableau Getting Started Tutorial](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-home.html)
-* [Tableau Training Videos](https://www.tableau.com/learn/training)
-* [Tableau Learning Library](https://onlinehelp.tableau.com/current/guides/get-started-tutorial/en-us/get-started-tutorial-next.html)
+De la manipulación de los datos hecha en Google Cloud se obtiene la principal tabla del Dataset que aglomera toda la información relevante del proyecto, AnnualReport. En esta tabla se ven reflejados la fecha, cancion, streams, artistas, generos, las propiedades de las canciones y el conteo de palabras.
 
-## Project Feedback + Evaluation
+La tabla SongProperties se genera mediante AnnualReport en donde para cada canción se indican las propiedades de estas.
 
-* __Technical Requirements__: Did you deliver a project that met all the technical requirements? Given what the class has covered so far, did you build something that was reasonably complex?
+Finalmente la tabla WordCount es un diccionario, donde para todo el conjunto de las canciones de 2020, se cuentan las palabras mas utilizadas. El proceso de conteo de palabras consistió en primero limpiar las letras obtenidas de falsos positivos, mayusculas, puntuación, acentos y Stopwords. A continuación se genera un Bag of Words para cada uno de las canciones que finalmente se suman todas para generar el diccionario final.
 
-* __Creativity__: Did you add a personal spin or creative element into your project submission? Did you incorporate domain knowledge or unique perspective into your analysis.
+## Visualization
 
-* __Code Quality__: Did you follow code style guidance and best practices covered in class?
+La información obtenida se utiliza para generar con Tableau una serie de gráficos en los que se estudia las tendencias musicales de 2020. Estos gráficos son del tipo treemap, burbujas, lineales y radar.
 
-* __Total__: Your instructors will give you a total score on your project between:
+Para el analisis de las palabras se realiza un WordCloud que se genera mediante la pagina web https://wordart.com/.
 
-    **Score**|**Expectations**
-    -----|-----
-    0|Does not meet expectations
-    1|Meets expectactions, good job!
-    2|Exceeds expectations, you wonderful creature, you!
 
-This will be useful as an overall gauge of whether you met the project goals, but __the more important scores are described in the specs above__, which can help you identify where to focus your efforts for the next project!
+
+
